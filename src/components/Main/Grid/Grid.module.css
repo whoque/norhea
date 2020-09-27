@@ -1,0 +1,13 @@
+.cards {
+    display: grid;
+    /* grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); */
+    grid-template-columns: repeat(auto-fit, 320px);
+    justify-content: center;
+    grid-gap: 2.5rem;
+    padding: 0 5%;
+}
+.cards > li {
+    list-style: none;
+}
+/* @media only screen and (min-width: 900px) {
+} */

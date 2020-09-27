@@ -1,0 +1,36 @@
+.header {
+    background: #1874CD;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.header__show {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    width: 100vw;
+    z-index: 99;
+    padding: 0;
+    top: 0;
+    left: 0;
+}
+.filter__button {
+    border: 0;
+    background: white;
+    height: 36px;
+    width: 80px;
+    color: #505050;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 4px;
+    cursor: pointer;
+    outline: 0;
+    margin: 20px;
+}
+.filter {
+    height: 100%;
+}

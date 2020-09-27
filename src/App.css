@@ -1,0 +1,19 @@
+.app {
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+  background: #5a5a5a;
+}
+.app > .modal {
+  background: #FCE370;
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30vh;
+}
+.app > .modal > img {
+  height: auto;
+  width: 50%;
+  min-width: 320px;
+}

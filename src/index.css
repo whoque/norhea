@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fadeOut{
+  opacity:0;
+  width:0 !important;
+  height:0 !important;
+  overflow: hidden !important;
+  transition: width 0.4s 0.4s, height 0.4s 0.4s, opacity 0.4s;
+  padding-top: 0vh !important;
+}
+.fadeIn{
+  opacity:1;
+  width: auto;
+  height: auto;
+  transition: width 0.4s, height 0.4s, opacity 0.4s 0.4s;
+
+}
