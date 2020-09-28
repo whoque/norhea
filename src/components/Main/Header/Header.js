@@ -16,7 +16,10 @@ const Header = ({filterFunc}) => {
                 <div className={styles.filter}>
                     <Filter />
                 </div>
-            ) : null}
+            ) : (
+                <div className={styles.logo}>NEWS</div>
+            )}
+            
             <div>
                 {showFilter ? (
                     <button

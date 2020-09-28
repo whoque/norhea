@@ -1,9 +1,17 @@
 .header {
-    background: #1874CD;
+    background: #2e2a2a;
     height: 50px;
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: space-between;
+    transition: 0.2s cubic-bezier(0.33, 1, 0.68, 1);
+}
+.logo {
+    margin-left: 20px;
+    color: #b3a5a5;
+    font-weight: bold;
+    font-size: 22px;
+    text-shadow: 1px 1px 1px black;
 }
 .header__show {
     display: flex;
@@ -20,10 +28,10 @@
 }
 .filter__button {
     border: 0;
-    background: white;
+    background: #b3a5a5;
     height: 36px;
     width: 80px;
-    color: #505050;
+    color: #000000;
     font-size: 12px;
     font-weight: 600;
     border-radius: 4px;

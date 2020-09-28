@@ -10,7 +10,7 @@ function App() {
   localStorage.setItem("norhea", JSON.stringify(defaultBlockers));
   setTimeout(() => {
     setModalVisibility(false);
-  }, 4500);
+  }, 5000);
   return (
     <div className="app">
       <div className={`modal ${isModalVisible ? '' : 'fadeOut' }`} >

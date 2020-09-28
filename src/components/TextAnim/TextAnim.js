@@ -13,7 +13,7 @@ const TextAnim = () => {
                     <li className={styles.content__container__list__item}>Rhea</li>
                     <li className={styles.content__container__list__item}>Bull s**t</li>
                     <li className={styles.content__container__list__item}>Kangana</li>
-                    <li className={styles.content__container__list__item}>Any s**t</li>
+                    <li className={styles.content__container__list__item}>...</li>
                 </ul>
             </div>
         </div>

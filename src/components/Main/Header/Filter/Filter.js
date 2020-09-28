@@ -74,7 +74,7 @@ const Filter = () => {
                     value={blockTerm}
                     onChange={blockerChangeHandler}
                     placeholder="Enter a term to block" />
-                <button onClick={blockerSubmitHandler}>Add</button>
+                <button onClick={blockerSubmitHandler}>Block</button>
             </div>
         </div>
     )
