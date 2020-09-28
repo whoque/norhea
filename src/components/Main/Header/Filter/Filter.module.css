@@ -1,7 +1,7 @@
 .filter {
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     height: 100%;
     width: 100vw;
@@ -13,6 +13,7 @@
     padding: 0px 0px 2px 0px;
     box-shadow: 0 0 1px black inset;
     border-radius: 5px;
+    margin: 20% 0;
 }
 
 .blocker__display_item {
@@ -67,7 +68,8 @@
 	align-items: center;
 	justify-content: center;
 	font-size: 30px;
-	color: #ebd8d0;
+    color: #ebd8d0;
+    /* padding: 5% 0; */
 }
 
 .box {

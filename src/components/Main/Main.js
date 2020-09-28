@@ -9,28 +9,28 @@ import Header from './Header/Header';
 const Main = () => {
     const [news, setNews] = useState([]);
     useEffect(() => {
-        const one = `http://newsapi.org/v2/top-headlines?page=1&pageSize=20&country=in&apiKey=${API_KEY}`;
-        const two = `http://newsapi.org/v2/top-headlines?page=2&pageSize=20&country=in&apiKey=${API_KEY}`;
-        const three = `https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=${API_KEY}`;
-        const four = `https://newsapi.org/v2/sources?language=en&apiKey=${API_KEY}`;
-        const requestOne = axios.get(one);
-        const requestTwo = axios.get(two);
-        const requestThree = axios.get(three);
-        const requestFour = axios.get(four);
-        axios.all([requestOne, requestTwo, requestThree, requestFour]).then(axios.spread((...responses) => {
-            const responseOne = responses[0];
-            const responseTwo = responses[1];
-            const responesThree = responses[2];
-            const responesFour = responses[2];
-            const combinedResult = [
-                ...responseOne.data.articles,
-                ...responseTwo.data.articles,
-                ...responesThree.data.articles,
-                ...responesFour.data.articles,
-            ];
-            console.log(JSON.stringify(combinedResult));
-        })).catch(errors => {
-        })
+        // const one = `http://newsapi.org/v2/top-headlines?page=1&pageSize=20&country=in&apiKey=${API_KEY}`;
+        // const two = `http://newsapi.org/v2/top-headlines?page=2&pageSize=20&country=in&apiKey=${API_KEY}`;
+        // const three = `https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=${API_KEY}`;
+        // const four = `https://newsapi.org/v2/sources?language=en&apiKey=${API_KEY}`;
+        // const requestOne = axios.get(one);
+        // const requestTwo = axios.get(two);
+        // const requestThree = axios.get(three);
+        // const requestFour = axios.get(four);
+        // axios.all([requestOne, requestTwo, requestThree, requestFour]).then(axios.spread((...responses) => {
+        //     const responseOne = responses[0];
+        //     const responseTwo = responses[1];
+        //     const responesThree = responses[2];
+        //     const responesFour = responses[2];
+        //     const combinedResult = [
+        //         ...responseOne.data.articles,
+        //         ...responseTwo.data.articles,
+        //         ...responesThree.data.articles,
+        //         ...responesFour.data.articles,
+        //     ];
+        //     console.log(JSON.stringify(combinedResult));
+        // })).catch(errors => {
+        // })
 
         filterNews(mockResponse);
     }, []);

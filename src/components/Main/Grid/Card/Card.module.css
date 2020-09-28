@@ -4,7 +4,7 @@
     align-items: center;
     justify-content: center;
     position: relative;
-    border-radius: 4px;
+    border-radius: 10px;
     overflow: hidden;
     height: 300px;
     color: #3d3d3d;
@@ -57,10 +57,10 @@
     text-overflow: ellipsis;
 }
 .fullCard {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
-    height: 100vh;
+    height: 100%;
     width: 100vw;
     z-index: 999;
     background: white;
@@ -73,6 +73,7 @@
 .title__Wrapper__full {
     justify-content: space-between;
     align-items: center;
+    padding: 12px 12px 70px 12px;
 }
 .card__source__full {
     overflow: revert;
@@ -83,7 +84,8 @@
 }
 .fullButtons__show {
     display: flex;
-    position: relative;
+    position: fixed;
+    bottom: 1%;
     width: 100%;
     justify-content: space-around;
 }
