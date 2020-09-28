@@ -4,6 +4,97 @@ export const mockResponse = [
   {
     "source": {
       "id": null,
+      "name": "Firstpost"
+    },
+    "author": null,
+    "title": "Back to Venus: Rocket Lab looks to beat NASA in search for life on Venus, other worlds - Firstpost",
+    "description": "Rocket Lab will need help from leading scientists, and has already recruited MIT astronomer and planetary scientist Sara Seager.",
+    "url": "https://www.firstpost.com/tech/science/back-to-venus-rocket-lab-looks-to-beat-nasa-in-search-for-life-on-venus-other-worlds-8858451.html",
+    "urlToImage": "https://images.firstpost.com/wp-content/uploads/2020/09/Venus_Source-PLANET-C-Project-Team-JAXA.jpg",
+    "publishedAt": "2020-09-28T06:02:58Z",
+    "content": "Agence France-PresseSep 28, 2020 11:32:58 IST\r\nCan a small US aerospace company get to Venus before NASA returns to our superheated planetary neighbor?\r\nThat's what Peter Beck,  CEO of Rocket Lab, is… [+3311 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NDTV News"
+    },
+    "author": null,
+    "title": "Civil Services Exams Can't Be Postponed Over Covid: UPSC To Supreme Court - NDTV",
+    "description": "The civil services exam scheduled on October 4 cannot be postponed over the coronavirus crisis, the Union Public Service Commission (UPSC) told the Supreme Court today. The top court was hearing a request seeking the postponement of civil services exam.",
+    "url": "https://www.ndtv.com/india-news/upsc-civil-services-exams-scheduled-on-october-4-cannot-be-postponed-due-to-coronavirus-upsc-tells-supreme-court-2302005",
+    "urlToImage": "https://c.ndtvimg.com/2020-08/uqb8e0co_upsc2020_650x400_04_August_20.jpg",
+    "publishedAt": "2020-09-28T05:58:18Z",
+    "content": "Civil Services Exam: 20 civil services aspirants had approached the Supreme Court over the exam.\r\nNew Delhi: The civil services exam scheduled on October 4 cannot be postponed over the coronavirus cr… [+1592 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NDTV News"
+    },
+    "author": "Press Trust of India",
+    "title": "IPL 2020, RR vs KXIP: Rahul Tewatia Says He Believed In Himself Despite Playing \"Worst 20 Balls\" Of .. - NDTV Sports",
+    "description": "IPL 2020, RR vs KXIP: Rahul Tewatia smashed West Indian fast bowler Sheldon Cottrell for five sixes in an over to turn the match on its head.",
+    "url": "https://sports.ndtv.com/ipl-2020/ipl-2020-rr-vs-kxip-rahul-tewatia-says-he-believed-in-himself-despite-facing-worst-20-balls-of-his-career-2301965",
+    "urlToImage": "https://c.ndtvimg.com/2020-09/61rhkpqg_rahul-tewatia-rr-instagram_625x300_28_September_20.jpg",
+    "publishedAt": "2020-09-28T05:41:00Z",
+    "content": "Rahul Tewatia, who became an overnight star by smashing West Indian fast bowler Sheldon Cottrell for five sixes in an over, says his self-belief did not waver despite the \"worst 20 balls\" he ever pla… [+1350 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NDTV News"
+    },
+    "author": null,
+    "title": "Anil Ambani Says \"Vegetarian, Teetotaler, Non-Smoker\" Amid UK Case - NDTV",
+    "description": "Former billionaire Anil Ambani rejected a judge's comment that he lived a \"lavish lifestyle\" as he faced questions about his assets from lawyers acting for a trio of Chinese banks.",
+    "url": "https://www.ndtv.com/india-news/dont-own-or-use-luxury-yacht-have-seasickness-anil-ambani-to-uk-judge-2301980",
+    "urlToImage": "https://c.ndtvimg.com/2020-09/pqusm838_anil-ambani-bloomberg-650_650x400_28_September_20.jpg",
+    "publishedAt": "2020-09-28T05:23:05Z",
+    "content": "Anil Ambani said that a judge was wrong to say he'd lived a lavish lifestyle.\r\nFormer billionaire Anil Ambani rejected a judge's comment that he lived a \"lavish lifestyle\" as he faced questions about… [+2577 chars]"
+  },
+  {
+    "source": {
+      "id": "al-jazeera-english",
+      "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "How a Bollywood star’s death case took a ‘misogynistic spiral’ - Al Jazeera English",
+    "description": "The death of a Bollywood actor has transfixed India with media accused of vilifying the actor’s girlfreind.",
+    "url": "https://www.aljazeera.com/features/2020/9/28/media-trial-of-rhea-chakraborty-and-bollywoods-moral-judgments",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/09/0a7270105eff4feaa48112aa667ae03b_18.jpeg?fit=1000%2C562",
+    "publishedAt": "2020-09-28T04:29:22Z",
+    "content": "Mumbai, India Bollywood actor Sushant Singh Rajput was found dead by apparent suicide at his Mumbai residence on June 14. What was a tragic end to a promising young stars career has turned into a med… [+9440 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Indian Express"
+    },
+    "author": "Sadaf Modak",
+    "title": "Ex-staffer linked to Karan Johar firm claims NCB forced him to implicate director; agency denies - The Indian Express",
+    "description": "The agency's Deputy DG (South West), Mutha Ashok Jain, refuted the allegation, and said the investigation was being carried out in a “professional manner”.",
+    "url": "https://indianexpress.com/article/india/ex-employee-linked-to-karan-johars-firm-claims-ncb-forced-him-to-implicate-director-6618285/",
+    "urlToImage": "https://images.indianexpress.com/2020/09/karan-johar-drug-party-1200.jpg",
+    "publishedAt": "2020-09-28T04:28:44Z",
+    "content": "Karan Johar had said that he does not know Prasad personally and that he or Dharma Productions cannot be made responsible for what people do in their personal lives. (Express Photo by Dilip Kagda)A f… [+5495 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NDTV News"
+    },
+    "author": null,
+    "title": "Happy Birthday, Ranbir Kapoor: Here's What Riddhima Posted For \"Baby Brother\" - NDTV",
+    "description": "\"Love you so much,\" wrote Riddhima for the actor",
+    "url": "https://www.ndtv.com/entertainment/happy-birthday-ranbir-kapoor-heres-what-riddhima-posted-for-baby-brother-2301953",
+    "urlToImage": "https://c.ndtvimg.com/2020-09/ujtdmcs_riddhima-kapoor-sahni-_625x300_28_September_20.jpg",
+    "publishedAt": "2020-09-28T04:20:07Z",
+    "content": "Riddhima Kapoor Sahni shared this photo. (Image courtesy: riddhimakapoorsahniofficial)\r\nHighlights\r\n<ul><li>Ranbir Kapoor turned 38 on Monday \r\n</li><li>\"Happiest birthday awesomeness!\" wrote Riddhim… [+1780 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "Zoom"
     },
     "author": "IANS",
@@ -17,106 +108,80 @@ export const mockResponse = [
   {
     "source": {
       "id": null,
-      "name": "NDTV News"
+      "name": "Hindustan Times"
     },
-    "author": null,
-    "title": "Tractor Set On Fire At India Gate In Delhi To Protest Farm Bills - NDTV",
-    "description": "A tractor was set on fire near India Gate in the heart of Delhi this morning during protests against the controversial farm laws, which have triggered widespread protests. The police have removed the tractor and the fire has been put out by the fire departmen…",
-    "url": "https://www.ndtv.com/india-news/tractor-set-on-fire-at-india-gate-in-delhi-to-protest-farm-bills-2301925",
-    "urlToImage": "https://c.ndtvimg.com/2020-09/t74vrn68_farmers-protest-tractor-fire-india-gate-ndtv_625x300_28_September_20.jpg",
-    "publishedAt": "2020-09-28T04:00:00Z",
-    "content": "Farmers' protest in Delhi: The cops have removed the tractor and the fire has been put out.\r\nNew Delhi: A tractor was set on fire near India Gate in the heart of Delhi this morning during protests ag… [+2863 chars]"
+    "author": "hindustantimes.com | Edited by: Amit Chaturvedi",
+    "title": "Covid-19: India crosses 60 lakh-mark, latest million added in 11 days - Hindustan Times",
+    "description": "At least 1,039 people succumbed due to the coronavirus disease (Covid-19) in the last 24 hours which pushed the death toll to 95,542.",
+    "url": "https://www.hindustantimes.com/india-news/covid-19-india-crosses-60-lakh-mark-latest-million-added-in-11-days/story-96r2jlNgJMGLHOFu6wtlQJ.html",
+    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/28/Pictures/delhi-covid-19-testing_952ccce8-0140-11eb-a0ae-05799bfe6215.jpg",
+    "publishedAt": "2020-09-28T04:16:23Z",
+    "content": "India on Monday recorded 82,170 fresh cases of the coronavirus disease (in the last 24 hours), which pushed the nationwide tally to above 60 lakh, according to Union health ministry update on Monday … [+1390 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "News18"
+      "name": "GSMArena.com"
     },
-    "author": "Buzz Staff",
-    "title": "KXIP's 'Sad Will Smith' Meme After Rahul Tewatia Storm Sums Up the Biggest Upset in IPL History - News18",
-    "description": "The encounter between the KXIP and Rajasthan Royals went down as the biggest run chase in IPL's history after Rahul Tewatia turned the game on its head in the 18th over of the run chase bowled by KXIP's Sheldon Cottrell.",
-    "url": "https://www.news18.com/news/buzz/kxips-sad-will-smith-meme-after-rahul-tewatia-storm-sums-up-the-biggest-upset-in-ipl-history-2914721.html",
-    "urlToImage": "https://images.news18.com/ibnlive/uploads/2020/09/1601263441_untitled-design-2020-09-28t085342.403.png",
-    "publishedAt": "2020-09-28T03:32:00Z",
-    "content": "Sunday night's clash between Rajasthan Royals and Kings XI Punjab in Sharjah was the perfect example why millions of cricket fans tune in to every match of IPL.\r\nThe encounter between the two teams w… [+1308 chars]"
-  },
-  {
-    "source": {
-      "id": "google-news",
-      "name": "Google News"
-    },
-    "author": null,
-    "title": "Game Day: RCB v MI preview - Royal Challengers Bangalore",
-    "description": null,
-    "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bUVNclJRTlB5S03SAQA?oc=5",
-    "urlToImage": null,
-    "publishedAt": "2020-09-28T03:30:02Z",
-    "content": null
+    "author": "Chip",
+    "title": "Top 10 trending phones of week 39 - GSMArena.com news - GSMArena.com",
+    "description": "The leader is unchanged, but there's plenty of action below.",
+    "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_39-news-45503.php",
+    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-476x249w4/gsmarena_002.jpg",
+    "publishedAt": "2020-09-28T04:06:01Z",
+    "content": "Now that's something you don't see very often - or at all for that matter. The Apple iPhone 12 Pro Max tops our trending chart for a second week in a row, despite still being at least a couple of wee… [+733 chars]"
   },
   {
     "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "TIMESOFINDIA.COM",
-    "title": "Glycemic index and glycemic load: what they mean and which ranking system is useful - Times of India",
-    "description": "People suffering from diabetes probably know they need to monitor their carbohydrate intake.",
-    "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/diet/glycemic-index-and-glycemic-load-what-they-mean-and-which-ranking-system-is-useful/photostory/78294017.cms",
-    "urlToImage": "https://static.toiimg.com/photo/78294059.cms",
-    "publishedAt": "2020-09-28T03:30:00Z",
-    "content": "The glycemic index of food indicates how quickly a carbohydrate gets digested and released as glucose into the bloodstream, which can be measured by blood sugar and how rapidly it rises.\r\nThe GI inde… [+1046 chars]"
+    "author": "Sarthak Dogra",
+    "title": "Male Birds Sounded Sexier To Females In COVID-19 Lockdown, Says Study - India Times",
+    "description": "The COVID-19 induced lockdown across most regions of the world left the urban landscape barren for other species to roam, making them alter their behaviour to adapt. Adding to this, a new study focused in San Francisco says that the city’s male birds began si…",
+    "url": "https://www.indiatimes.com/technology/science-and-future/birds-sing-attract-mate-coronavirus-lockdown-study-523834.html",
+    "urlToImage": "https://im.indiatimes.in/content/2020/Sep/RTXBM6I_5f70a705c37e6.jpg",
+    "publishedAt": "2020-09-28T03:54:10Z",
+    "content": "The COVID-19 induced lockdown across most regions of the world left the urban landscape barren for other species to roam, making them alter their behaviour to adapt. \r\nAdding to this, a new study foc… [+2248 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "The Rahnuma Daily"
+      "name": "NDTV News"
     },
     "author": null,
-    "title": "NASA to send $23mn advanced toilet to space station - The Rahnuma Daily",
-    "description": "Washington, Sep 27 (IANS) NASA is all set to launch this week a$23 million advanced bathroom to the International Space Station (ISS) to test out before using a similar system on future Moon and Mars missions. The toilet is scheduled to launch, along with oth…",
-    "url": "https://www.therahnuma.com/nasa-to-send-23mn-advanced-toilet-to-space-station/",
-    "urlToImage": "https://www.therahnuma.com/wp-content/uploads/2020/05/8098f5815e289d675bf85988075c1ea4.jpg",
-    "publishedAt": "2020-09-28T03:27:49Z",
-    "content": "NASA astronauts Robert Behnken (right) and Douglas Hurley at NASAâs Kennedy Space Center in Florida on May 23 as they prepare to be transported to Launch Complex 39A during a full dress rehearsal a… [+3298 chars]"
+    "title": "Government To Submit Loan Moratorium Plan In Top Court Today - NDTV Profit",
+    "description": "The government will present its plan today to help borrowers ease their EMI burden during the coronavirus crisis as the top court will hear final arguments in the loan moratorium case. Earlier this month, the Supreme Court had given the government two more we…",
+    "url": "https://www.ndtv.com/business/loan-moratorium-case-hearing-today-sep-28-centre-to-submit-loan-moratorium-plan-in-top-court-today-2301928",
+    "urlToImage": "https://c.ndtvimg.com/2019-11/i11us4f_supreme-court_624x370_25_November_19.jpg",
+    "publishedAt": "2020-09-28T03:27:47Z",
+    "content": "<li>In its September 10 order, the top court had given the last chance to the government and the RBI to come up with a plan, refusing to adjourn the case any further. \r\n</li><li>\"What is going to hap… [+2663 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Bloomberg",
+    "title": "Vodafone's $3 billion tax victory against India shows the perils of state overreach - Economic Times",
+    "description": "Modis government didnt invent the capricious Indian state, but it hasnt lessened uncertainty or cut red tape. Neither for small startups, nor for large global investors.",
+    "url": "https://economictimes.indiatimes.com/news/economy/policy/vodafones-3-billion-tax-victory-against-india-shows-the-perils-of-state-overreach/articleshow/78356888.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid-78356880,width-1070,height-580,imgsize-552690,overlay-economictimes/photo.jpg",
+    "publishedAt": "2020-09-28T03:13:00Z",
+    "content": "by Andy MukherjeeStrong states grow stronger by putting limits on their own power; weak states become weaker by descending into arbitrariness. India has to choose which it wants to be. \r\nThats the me… [+4208 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Abplive.com"
+      "name": "New York Times"
     },
-    "author": "ABP News Bureau",
-    "title": "We Don’t Even Smoke Cigarettes, Said Deepika, Sara, Rakul & Shraddha: NCB Official - ABP Live",
-    "description": "These actresses have also refuted any knowledge of Sushant Singh Rajput’s alleged drug habit.",
-    "url": "https://news.abplive.com/entertainment/movies/we-dont-even-smoke-said-deepika-sara-rakul-shraddha-ncb-official-1349980",
-    "urlToImage": "https://static.abplive.com/wp-content/uploads/2020/09/28141629/NCB.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
-    "publishedAt": "2020-09-28T03:17:23Z",
-    "content": "An NBA official has revealed that all the four Bollywood actresses, Deepika Padukone, Sara Ali Khan, Rakul Singh and Shraddha Kapoor, who were recently questioned by the Narcotics Control Bureau (NCB… [+1126 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Livemint"
-    },
-    "author": "Devansh Sharma",
-    "title": "Market LIVE: Sensex opens 368 points higher, Nifty above 11,100; RIL, HDFC gain - Mint",
-    "description": "Equity benchmark Sensex jumped over 300 points in early trade on Monday, tracking gains in index majors ICICI Bank, HDFC Bank and Reliance Industries amid positive trend in global markets",
-    "url": "https://www.livemint.com/market/stock-market-news/sensex-today-live-stock-market-ril-lakshmi-vilas-bank-shares-28-09-2020-bank-stocks-nse-bse-updates-11601261214011.html",
-    "urlToImage": "https://images.livemint.com/img/2020/09/28/600x338/bse_(4)-kiyD--621x414@LiveMint_1601262953824.JPG",
-    "publishedAt": "2020-09-28T03:16:33Z",
-    "content": "28 Sep 2020, 08:46:34 AM ISTChinese stocks drove Asian markets higher on Monday, though sentiment was still cautious ahead of a US Presidential debate and as a spike in new coronavirus cases undermin… [+463 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Moneycontrol"
-    },
-    "author": null,
-    "title": "Stocks in the news | RIL, Usha Martin, Cummins India, Ajanta Pharma, JSW Energy - Moneycontrol.com",
-    "description": "NALCO, Central Bank of India, CEAT, NCL Industries, Hero MotoCorp, Coffee Day, Thomas Cook, Grasim Industries, ISGEC Heavy Engineering, Ugro Capital are also among the stocks in focus today",
-    "url": "https://www.moneycontrol.com/news/photos/business/stocks/stocks-in-the-news-ril-usha-martin-cummins-india-ajanta-pharma-jsw-energy-5892061.html",
-    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/04/stock-in-the-news-770x433.jpg",
-    "publishedAt": "2020-09-28T03:11:00Z",
-    "content": "Jet Airways | The Committee of Creditors of Jet Airways will meet today, in what everyone hopes will be the lenders' final gathering to select the next owner of the airline that was grounded in April… [+214 chars]"
+    "author": "News18",
+    "title": "Donald Trump’s Taxes Show Chronic Losses and Years of Income Tax Avoidance - News18",
+    "description": "They records comprise information that Trump has disclosed to the IRS, not the findings of an independent financial examination. They report that Trump owns hundreds of millions of dollars in valuable assets, but they do not reveal his true wealth.",
+    "url": "https://www.nytimes.com/2020/09/27/us/donald-trump-taxes.html",
+    "urlToImage": "https://images.news18.com/ibnlive/uploads/2020/09/1600412987_trump-visa-1.jpg",
+    "publishedAt": "2020-09-28T03:09:00Z",
+    "content": "Donald Trump paid $750 in federal income taxes the year he won the presidency. In his first year in the White House, he paid another $750.\r\nHe had paid no income taxes at all in 10 of the previous 15… [+57893 chars]"
   },
   {
     "source": {
@@ -159,81 +224,81 @@ export const mockResponse = [
   },
   {
     "source": {
-      "id": null,
-      "name": "Business Standard"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": "Andy Mukherjee | Bloomberg",
-    "title": "Vodafone case has cost India a lot. It is time to accept defeat and move on - Business Standard",
-    "description": "It cost us more in prestige than we could hope to win and this award ends a decade-old saga that tarnished India's reputation among foreign investors",
-    "url": "https://www.business-standard.com/article/companies/modi-s-vodafone-loss-gives-india-a-stark-choice-between-strong-weak-state-120092800142_1.html",
-    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/02/full/1598988530-1585.jpg",
-    "publishedAt": "2020-09-28T02:29:00Z",
-    "content": "Strong states grow stronger by putting limits on their own power; weak states become weaker by descending into arbitrariness. India has to choose which it wants to be.\r\nThat’s the message being given… [+5576 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "DNA India"
-    },
-    "author": "DNA Web Team",
-    "title": "One carb you MUST include in your diet if trying to lose weight - DNA India",
-    "description": "A tip: If you pair black beans with some brown rice, you are getting all nine essential amino acids, which makes it an absolute source of protein.",
-    "url": "https://www.dnaindia.com/lifestyle/report-carbs-weight-loss-black-beans-diet-rich-food-2845827",
-    "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/09/28/927803-black-beans.jpg",
-    "publishedAt": "2020-09-28T02:25:00Z",
+    "author": "TNN",
+    "title": "Karnataka farmers' bandh today, may not hit normal life - Times of India",
+    "description": "More than 30 pro-farmer organisations have reiterated they will go ahead with Karnataka bandh on Monday to protest the central and state governments'",
+    "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-farmers-bandh-today-may-not-hit-normal-life/articleshow/78355840.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-78355938,width-1070,height-580,imgsize-222468,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2020-09-28T02:24:00Z",
     "content": null
   },
   {
     "source": {
       "id": null,
-      "name": "NDTV News"
+      "name": "Hindustan Times"
     },
-    "author": "Jagmeet Singh",
-    "title": "Realme Narzo 20 to Go on Sale for First Time in Today via Flipkart, Realme.com at 12 Noon: Price in India... - Gadgets 360",
-    "description": "Realme Narzo 20 is set to go on sale in India today for the first time. The new Realme phone was launched alongside the Realme Narzo 20A and Narzo 20 Pro last week.",
-    "url": "https://gadgets.ndtv.com/mobiles/news/realme-narzo-20-sale-today-september-28-price-in-india-rs-10499-specifications-availability-flipkart-2301503",
-    "urlToImage": "https://i.gadgets360cdn.com/large/realme_narzo_20_image_1601126945040.jpg",
-    "publishedAt": "2020-09-28T02:01:28Z",
-    "content": "Realme Narzo 20 is set to go on sale in India today for the first time. The new Realme phone was launched alongside the Realme Narzo 20A and Narzo 20 Pro last week. Key highlights of the Realme Narzo… [+2400 chars]"
+    "author": "HT Auto Desk",
+    "title": "Honda showcases electric SUV concept in major show of intent for future - Hindustan Times Auto News",
+    "description": "Honda is determined to make the most in the EV game and while its compact E is receiving good reviews, an electric SUV could well be what the markets ordered.",
+    "url": "https://auto.hindustantimes.com/auto/cars/honda-showcases-electric-suv-concept-in-major-show-of-intent-for-future-41601258958085.html",
+    "urlToImage": "https://images.hindustantimes.com/auto/img/2020/09/28/600x338/Honda_EV_1601259473801_1601259478819.jpg",
+    "publishedAt": "2020-09-28T02:20:50Z",
+    "content": "Honda has finally shown some intent of taking not just the demand for SUVs in global markets by the horns but also stepping strongly into a world of electric mobility by recently showcasing its elect… [+1608 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Hindustan Times"
+      "name": "The Indian Express"
     },
-    "author": "hindustantimes.com | Edited by Prashasti Singh",
-    "title": "Karnataka Bandh: Farmers to protest against state farm bills today - Hindustan Times",
-    "description": "Several labour organisations, pro-Kannada outfits and the Congress and the JD(S), who had opposed the farm bills in the assembly, extended support to the call for the bandh.",
-    "url": "https://www.hindustantimes.com/karnataka/karnataka-bandh-farmers-to-protest-against-state-farm-bills-today/story-W3YBMJHkL8szVs2mDmN6II.html",
-    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/28/Pictures/_df96de38-0125-11eb-b32f-32d5f7e2c720.png",
-    "publishedAt": "2020-09-28T02:00:00Z",
-    "content": "Farmers’ organisations in Karnataka called for a state-wide bandh on Monday in protest against the amendments to the agricultural produce market committee (APMC) and land reforms acts introduced by t… [+2517 chars]"
+    "author": "ENS Economic Bureau",
+    "title": "‘Hurting the farmers? How? Ask us one question we can’t answer’: Nirmala Sitharaman - The Indian Express",
+    "description": "According to Sitharaman, all consultations were majorly done – talking to people, taking their inputs, and then bringing it to Cabinet – by the time she announced these agri reforms as part of the AtmaNirbhar package on May 15.",
+    "url": "https://indianexpress.com/article/india/nirmala-sitharaman-farm-bills-farmer-protests-6618508/",
+    "urlToImage": "https://images.indianexpress.com/2020/09/sitharaman-3.jpg",
+    "publishedAt": "2020-09-28T02:15:25Z",
+    "content": "Union Finance Minister Nirmala Sitharaman speaks in Lok Sabha during the ongoing Monsoon Session of Parliament. (Photo: Screengrab @ LSTV via PTI Photo)POINTING OUT THAT her Cabinet colleague Narendr… [+2466 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Hindustan Times"
+      "name": "The News Minute"
     },
-    "author": "HT Entertainment Desk",
-    "title": "Happy birthday Ranbir Kapoor: When Alia Bhatt revealed her ‘shy moment’ during their first meeting - Hindustan Times",
-    "description": "As Ranbir Kapoor turns 38 on Monday, here is looking back at his first-ever meeting with his girlfriend, Alia Bhatt. Sanjay Leela Bhansali wanted to cast them in Balika Vadhu and they even did a photoshoot together for it.",
-    "url": "https://www.hindustantimes.com/bollywood/happy-birthday-ranbir-kapoor-when-alia-bhatt-revealed-her-shy-moment-during-their-first-meeting/story-7PBskKV8Jlfxmsku6xWv6J.html",
-    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/26/Pictures/_42a725a6-fff4-11ea-a99d-aa10b4ecc8c1.png",
-    "publishedAt": "2020-09-28T01:14:16Z",
-    "content": "Ranbir Kapoor was once thought to be a bit of a ladies’ man but those days are long gone. He has happily settled into a relationship with Alia Bhatt. Their romance is growing stronger by the day; the… [+3240 chars]"
+    "author": null,
+    "title": "COVID-19 herd immunity still far off for India, don't get complacent: Health Min - The News Minute",
+    "description": "Union Health Minister Harsh Vardhan on Sunday cautioned that the the Indian Council of Medical Research's (ICMR) Sero survey report should not create a sense of complacency in people, as the Indian population is not even close to achieving herd immunity. His …",
+    "url": "https://www.thenewsminute.com/article/covid-19-herd-immunity-still-far-india-dont-get-complacent-health-min-134033",
+    "urlToImage": "https://www.thenewsminute.com/sites/default/files/Harsh-Vardhan_1200.jpg",
+    "publishedAt": "2020-09-28T02:10:18Z",
+    "content": "\"We are far from having achieved any kind of herd immunity, and all of us should continue following COVID-appropriate behaviour,\" Harsh Vardhan said.Union Health Minister Harsh Vardhan on Sunday caut… [+2085 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "TNN",
+    "title": "PM Modi defends agri reforms, says farmers have flourished when freed from mandi restrictions - Times of India",
+    "description": "India News:  Explaining the utility of the farm reforms criticised by the opposition and a section of farm organisations, Prime Minister Narendra Modi on Sunday c",
+    "url": "https://timesofindia.indiatimes.com/india/pm-modi-defends-agri-reforms-says-farmers-have-flourished-when-freed-from-mandi-restrictions/articleshow/78353718.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-78353712,width-1070,height-580,imgsize-81814,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2020-09-28T02:02:00Z",
+    "content": null
   },
   {
     "source": {
       "id": null,
-      "name": "Hindustan Times"
+      "name": "India.com"
     },
-    "author": "Bloomberg | Posted by Prashasti Singh",
-    "title": "Trump’s ban on TikTok temporarily blocked by federal judge - Hindustan Times",
-    "description": "US District Judge Carl Nichols granted a preliminary injunction against the ban on the widely used video-sharing network after an unusual Sunday morning hearing.",
-    "url": "https://www.hindustantimes.com/world-news/trump-s-ban-on-tiktok-temporarily-blocked-by-federal-judge/story-a3rJx2wSaomvYKHVTLXtvJ.html",
-    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/28/Pictures/washington-attorneys-president-trump-hosts-discussion-general_6f73de18-0124-11eb-b32f-32d5f7e2c720.jpg",
-    "publishedAt": "2020-09-28T00:57:38Z",
-    "content": "President Donald Trump’s ban on TikTok was temporarily blocked by a federal judge, dealing a blow to the government in its showdown with the popular Chinese-owned app it says threatens national secur… [+4125 chars]"
+    "author": "Zee Media Bureau",
+    "title": "Unlock 5.0: Cinema halls to educational institutes, what relaxations to expect - Zee News",
+    "description": "Economic activities While the MHA had allowed the resumption of activities at restaurants, malls, salons and gyms, it is expected that more economic activities would be allowed from October with physical distancing.",
+    "url": "https://zeenews.india.com/india/unlock-5-0-cinema-halls-to-educational-institutes-what-relaxations-to-expect-2312910.html",
+    "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2020/09/28/888889-lead.png",
+    "publishedAt": "2020-09-28T01:23:15Z",
+    "content": "The fourth phase of coronavirus COVID-19 lockdown relaxations is set to end on September 30 and Unlock 5.0 will begin from October 1. It is to be noted that the Centre is yet to announce any guidelin… [+2595 chars]"
   },
   {
     "source": {
@@ -251,67 +316,28 @@ export const mockResponse = [
   {
     "source": {
       "id": null,
-      "name": "GSMArena.com"
+      "name": "ATP Tour"
     },
-    "author": "Ivan",
-    "title": "Week 39 in review: Galaxy S20 FE debuts as major leak details Pixel 5 - GSMArena.com news - GSMArena.com",
-    "description": "There was a bunch of OnePlus 8T leaks and rumors too.",
-    "url": "https://www.gsmarena.com/week_39_in_review_galaxy_s20_fe_is_official_pixel_5_fully_detailed-news-45489.php",
-    "urlToImage": "https://fdn.gsmarena.com/imgroot/news/19/04/week-in-review/-476x249w4/gsmarena_003.jpg",
-    "publishedAt": "2020-09-27T22:57:01Z",
-    "content": "Welcome to your week's recap, let's get started.\r\nThe Google Pixel 5 was fully detailed. It will be unveiled on September 30 with a Snapdragon 765G and 8GB of RAM, a 6-inch 1080p OLED with 90Hz refre… [+3023 chars]"
+    "author": "ATP Tour",
+    "title": "The Great Equaliser At Roland Garros: The Weather - ATP Tour",
+    "description": "The Great Equaliser At Roland Garros: The Weather",
+    "url": "https://www.atptour.com/en/news/cold-feature-roland-garros-2020",
+    "urlToImage": "https://www.atptour.com/-/media/images/news/2020/09/27/22/18/wawrinka-roland-garros-2020-jacket.jpg",
+    "publishedAt": "2020-09-27T22:40:48Z",
+    "content": "With Roland Garros beginning in late September instead of May due to the COVID-19 pandemic, there are inevitable differences at the tournament this year, one of them being the weather.\r\nIn the cold a… [+4099 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "PINKVILLA"
+      "name": "Hindustan Times"
     },
-    "author": "Swetlana Neog",
-    "title": "Happy Birthday Lata Mangeshkar: 10 unknown facts about the Nightingale of India that will leave you intrigued - PINKVILLA",
-    "description": "Lata Mangeshkar turns 91 on 28th September, 2020. Check out some of the unknown facts about the legendary singer on the special occasion.",
-    "url": "https://www.pinkvilla.com/entertainment/news/happy-birthday-lata-mangeshkar-10-unknown-facts-about-nightingale-india-will-leave-you-intrigued-565076",
-    "urlToImage": "https://www.pinkvilla.com/files/styles/fbimagesection/public/happy_birthday_lata_mangeshkar_unknown_facts_about_the_singer_social.jpg?itok=dzugp3Wy",
-    "publishedAt": "2020-09-27T22:02:00Z",
-    "content": null
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Ahmed Ali",
-    "title": "We don’t even smoke, said four actors: NCB official - Times of India",
-    "description": "Actors Deepika Padukone, Sara Ali Khan, Rakul Singh and Shraddha Kapoor, who were questioned by the Narcotics Contr",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/we-dont-even-smoke-said-four-actors-ncb-official/articleshow/78355443.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-78355442,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-61719/78355442.jpg",
-    "publishedAt": "2020-09-27T22:01:00Z",
-    "content": "MUMBAI: Actors Deepika Padukone, Sara Ali Khan, Rakul Singh and Shraddha Kapoor, who were questioned by the Narcotics Control Bureau (NCB), have all denied substance abuse. They said they were referr… [+1889 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "Mamtha Asokan",
-    "title": "RBI may push headless LVB to merge - Times of India",
-    "description": "India Business News: CHENNAI: The unprecedented move by shareholders of Lakshmi Vilas Bank to oust an RBI-approved CEO and directors is likely to result in the banking reg.",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-may-push-headless-lvb-to-merge/articleshow/78355387.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-78355385,width-1070,height-580,imgsize-70674,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-    "publishedAt": "2020-09-27T21:00:00Z",
-    "content": null
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Deccan Chronicle"
-    },
-    "author": "Pawan Bali",
-    "title": "Indian Army moves tanks to forward areas - Deccan Chronicle",
-    "description": "Mechanised forces to be deployed in forward locations through the winter",
-    "url": "https://www.deccanchronicle.com/nation/current-affairs/270920/indian-army-moves-tanks-to-forward-areas.html",
-    "urlToImage": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-3cmacero7snhecr6q3rhnv8tg2-20200927232824.Medi.jpeg",
-    "publishedAt": "2020-09-27T18:02:00Z",
-    "content": "New Delhi: The Indian Army has deployed tanks at forward areas like Chumar, Depsang and Chushul sectors to take on any threat from the Chinese army. It has deployed T-90 and T-72 tanks along with BMP… [+2418 chars]"
+    "author": "Shishir Gupta",
+    "title": "LAC: Army ready for winter endurance test - Hindustan Times",
+    "description": "From November onwards, it will be the endurance power of a volunteer army (India) against a conscript (PLA) army that will be on display.",
+    "url": "https://www.hindustantimes.com/india-news/lac-army-ready-for-winter-endurance-test/story-4cHfvqJw7cCuL9NaLO0soK.html",
+    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/28/Pictures/_08b89902-010b-11eb-ac80-07fcacbe9f14.jpg",
+    "publishedAt": "2020-09-27T18:28:37Z",
+    "content": "At a height of 5,800 metres on the Finger Four mountainous spur, an endurance test is set to take place this winter, with Indian Army and the People’s Liberation Army (PLA) poised face-to-face, and t… [+3001 chars]"
   },
   {
     "source": {
@@ -329,80 +355,28 @@ export const mockResponse = [
   {
     "source": {
       "id": null,
-      "name": "Pledgetimes.com"
+      "name": "News18"
     },
-    "author": "Bhavi Mandalia",
-    "title": "Coronavirus Delhi Update: 3292 new cases, 42 patients died in Delhi in 24 hours - Pledge Times",
-    "description": "new Delhi Coronation virus cases continue to fluctuate in Delhi. 3,292 new Corona cases have been reported in the country's capital on Sunday. Earlier, Delhi",
-    "url": "https://pledgetimes.com/coronavirus-delhi-update-3292-new-cases-42-patients-died-in-delhi-in-24-hours/",
-    "urlToImage": "https://navbharattimes.indiatimes.com/photo/msid-78350915,imgsize-123786/pic.jpg",
-    "publishedAt": "2020-09-27T16:47:36Z",
-    "content": "Highlights:\r\n<ul><li>The total corona virus cases in Delhi are 2,71,114.</li><li>Delhi still has 29,228 cases of corona virus</li><li>So far 5,235 patients have died of corona in the capital.</li></u… [+1839 chars]"
+    "author": "News18",
+    "title": "Actor Anupam Shyam Thanks Yogi Adityanath for Help - News18",
+    "description": "Uttar Pradesh Chief Minister Yogi Adityanath provided financial assistance for actor Anupam Shyam's medical treatment when he was facing a financial crunch.",
+    "url": "https://www.news18.com/news/movies/actor-anupam-shyam-thanks-yogi-adityanath-for-help-2913667.html",
+    "urlToImage": "https://images.news18.com/ibnlive/uploads/2020/09/1601209151_anupam-shyam-yogi-adityanath.jpg",
+    "publishedAt": "2020-09-27T12:20:00Z",
+    "content": "TV actor Anupam Shyam Ojha, who wooed audience with his stellar performance in \"Mann Kee Awaaz Pratigya\" has expressed his gratitude to Uttar Pradesh Chief Minister Yogi Adityanath for providing fina… [+508 chars]"
   },
   {
     "source": {
-      "id": null,
-      "name": "Hindustan Times"
+      "id": "the-times-of-india",
+      "name": "The Times of India"
     },
-    "author": "Utpal Parashar | Edited by Sparshita Saxena",
-    "title": "Over 2.25 lakh affected across 9 districts as fresh wave of floods hits Assam - Hindustan Times",
-    "description": "The affected districts in the third wave of flood this year include Dhemaji, Lakhimpur, Morigaon, Nagaon, Majuli, West Karbi Anglong, Sibsagar, Dibrugarh and Tinsukia.",
-    "url": "https://www.hindustantimes.com/india-news/over-2-25-lakh-affected-across-9-districts-as-fresh-wave-of-floods-hits-assam/story-aBbMhvcXmam4PgH1OzhweM.html",
-    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/27/Pictures/assam-floods_ece962b8-00d0-11eb-ac80-07fcacbe9f14.jpg",
-    "publishedAt": "2020-09-27T16:30:00Z",
-    "content": "One person has died and over 2.25 lakh people in 219 villages of thirteen revenue circles are affected in a fresh wave of floods in Assam due to heavy rainfall over the past few days. \r\nAccording to … [+898 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Indian Express"
-    },
-    "author": "Express Web Desk",
-    "title": "India far from achieving herd immunity against Covid-19, ICMR probing reinfection cases: Harsh Vardhan - The Indian Express",
-    "description": "On emerging evidence that Covid-19 infection not only impacts the lungs but other organs too, Harsh Vardhan said the Ministry of Health had already set up expert committees to look into these facets of the infection.",
-    "url": "https://indianexpress.com/article/india/indians-far-from-achieving-herd-immunity-against-covid-19-icmr-reinfection-probe-harsh-vardhan-6618282/",
-    "urlToImage": "https://images.indianexpress.com/2020/09/Harsh-Vardhan11.jpg",
-    "publishedAt": "2020-09-27T15:51:31Z",
-    "content": "Union Health Minister Harsh Vardhan during 'Sunday Samvaad' -- an interaction with his social media followers.Citing ICMR’s second sero-survey, Union Health Minister Harsh Vardhan Sunday said India w… [+3170 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Hindustan Times"
-    },
-    "author": "Vijay Swaroop | Edited by Sohini Sarkar",
-    "title": "Sharad Yadav’s Loktantrik Janata Dal unlikely to join JD(U), wants to work for GA - Hindustan Times",
-    "description": "The national office bearers of the party met in New Delhi on Sunday and called the rumours of the party switching sides “totally false and baseless”.",
-    "url": "https://www.hindustantimes.com/bihar-election/sharad-yadav-s-loktantrik-janata-dal-unlikely-to-join-jd-u-wants-to-work-for-ga/story-CzY7VZyJrHzkTUUm2GseMI.html",
-    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/27/Pictures/_7f92dcbe-00bf-11eb-ac80-07fcacbe9f14.jpg",
-    "publishedAt": "2020-09-27T12:56:00Z",
-    "content": "Putting to rest all speculation, Sharad Yadav-led Loktantrik Janata Dal on Sunday ruled out the possibility of the party joining the JD(U). \r\nThe national office bearers of the party met in New Delhi… [+1665 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Space Ref"
-    },
-    "author": null,
-    "title": "This Week at NASA - Lunar Exploration Plans Updated and More - Space Ref",
-    "description": null,
-    "url": "http://spaceref.com/missions-and-programs/nasa/this-week-at-nasa---lunar-exploration-plans-updated-and-more.html",
-    "urlToImage": null,
-    "publishedAt": "2020-09-27T12:00:00Z",
-    "content": "An update to plans for Artemis, the next space station crew trains for its mission, and collaboration in the interest of space ... a few of the stories to tell you about - This Week at NASA.\r\nPlease … [+50 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The North Africa Post"
-    },
-    "author": "",
-    "title": "Morocco once home to world's biggest aquatic dinosaur – Study - The North Africa Post",
-    "description": null,
-    "url": "https://northafricapost.com/44117-morocco-once-home-to-worlds-biggest-aquatic-dinosaur-study.html",
-    "urlToImage": null,
-    "publishedAt": "2020-09-27T11:57:34Z",
-    "content": "About 100 million years ago, Moroccos Tafilalet region was home to a river monster, a 15-meter long water dinosaur, according to a study by a scientific team from Britains Portsmouth University.\r\nA d… [+1190 chars]"
+    "author": "IANS",
+    "title": "Irrfan Khan wanted to have a daughter, reveals wife Sutapa Sikdar - Times of India",
+    "description": "On the occasion of Daughters' Day, late actor Irrfan Khan's wife Sutapa Sikdar revealed how the two 'desperately' w",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/irrfan-khan-wanted-to-have-a-daughter-reveals-wife-sutapa-sikdar/articleshow/78347988.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-78347988,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-167033/78347988.jpg",
+    "publishedAt": "2020-09-27T11:44:00Z",
+    "content": null
   },
   {
     "source": {
@@ -420,6 +394,32 @@ export const mockResponse = [
   {
     "source": {
       "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "Kul Bhushan",
+    "title": "Samsung Galaxy Tab S7 Plus review: A value-for-money premium Android tablet - HT Tech",
+    "description": "Planning to buy Samsung Galaxy Tab S7? Here is how our experience has been with the latest Android tablet.",
+    "url": "https://tech.hindustantimes.com/laptops-pc/reviews/samsung-galaxy-tab-s7-plus-review-a-value-for-money-premium-android-tablet-71601205460464.html",
+    "urlToImage": "https://images.hindustantimes.com/tech/img/2020/09/27/600x338/galaxy_tab_s7_plus_1601205535040_1601205542875.jpg",
+    "publishedAt": "2020-09-27T11:17:40Z",
+    "content": "Brand: SamsungProduct: Galaxy Tab S7 PlusKey specs: 12.4-inch Super AMOLED display, octa-core SoC, 6GB RAM, 128GB storage, 10090mAh battery, S Pen supportPrice: 79,999 (starting)Rating: 4/5 \r\nIf you … [+2797 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Deccan Herald"
+    },
+    "author": "DH Web Desk",
+    "title": "Chinese company to launch world's first mining robot into space - Deccan Herald",
+    "description": "A private Beijing company, Origin Space is set to send out the world’s first mining robot into space by November 2020, IEEE Specturm reported. Termed as an ‘asteroid mining robot’, the robot is not going to do any actual mining. The mission is a preliminary a…",
+    "url": "https://www.deccanherald.com/science-and-environment/chinese-company-to-launch-worlds-first-mining-robot-into-space-893746.html",
+    "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2020/09/27/gettyimages-548263227-170667a-1-886366-1599904199-893746-1601205403.jpg",
+    "publishedAt": "2020-09-27T11:16:43Z",
+    "content": "A private Beijing company, Origin Space is set to send out the worlds first mining robot into space by November 2020, IEEE Specturm reported.\r\nTermed as an asteroid mining robot, the robot is not goi… [+1060 chars]"
+  },
+  {
+    "source": {
+      "id": null,
       "name": "The Logical Indian"
     },
     "author": "Palak Agrawal",
@@ -432,55 +432,42 @@ export const mockResponse = [
   },
   {
     "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
+      "id": null,
+      "name": "Hindustan Times"
     },
-    "author": "PTI",
-    "title": "No intention of joining hands with Shiv Sena: Devendra Fadnavis - Times of India",
-    "description": "India News: Former Maharashtra CM Devendra Fadnavis on Sunday asserted that the BJP has no intention of joining hands with Shiv Sena or to bring down the Uddhav T",
-    "url": "https://timesofindia.indiatimes.com/india/no-intention-of-joining-hands-with-shiv-sena-devendra-fadnavis/articleshow/78346958.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-78346955,width-1070,height-580,imgsize-290018,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-    "publishedAt": "2020-09-27T10:39:00Z",
-    "content": null
+    "author": "Yashwant Raj | Edited by Prashasti Singh",
+    "title": "Donald Trump picks Amy Coney Barrett to fill vacancy at US Supreme Court - Hindustan Times",
+    "description": "US President Donald Trump announced his nomination at a White House event calling Barrett “one of our nation’s most brilliant and gifted legal minds”.",
+    "url": "https://www.hindustantimes.com/world-news/donald-trump-picks-amy-coney-barrett-to-fill-vacancy-at-us-supreme-court/story-g0TLCPP0kDrnUsCZpmnuRJ.html",
+    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/27/Pictures/photograph-obtained-university-undated-coney-barrett-poses_5c952be8-0071-11eb-a5cd-623ad1e030ac.jpg",
+    "publishedAt": "2020-09-27T03:38:00Z",
+    "content": "US President Donald Trump on Saturday nominated Amy Coney Barrett to the Supreme Court to fill the vacancy left by the passing of Justice Ruth Bader Ginsburg, setting up a bitter political fight over… [+2037 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "India.com"
+      "name": "Pledgetimes.com"
     },
-    "author": "India.com Sports Desk",
-    "title": "IPL 2020: Yuzvendra Chahal All Hearts as he Wishes Fiancee Dhanashree Verma on Her Birthday - India.com",
-    "description": "The leg-spinner had announced his engagement on August 8 where he took to his social media and wrote, We said “Yes” along with our families. #rokaceremony.",
-    "url": "https://www.india.com/sports/ipl-2020-yuzvendra-chahal-all-hearts-as-he-wishes-fiancee-dhanashree-verma-on-her-birthday-4154130/",
-    "urlToImage": "https://www.india.com/wp-content/uploads/2020/09/Image-4-62.jpg",
-    "publishedAt": "2020-09-27T06:51:34Z",
-    "content": "Royal Challengers Bangalore spinner Yuzvendra Chahal – shared two pictures – as he wished his fiancee Dhanashree Verma on her birthday on Instagram on Sunday. The leg-spinner had announced his engage… [+1485 chars]"
+    "author": "Bhavi Mandalia",
+    "title": "Vitamin D effective against corona! Chance of dying from infection reduced by 52 percent - Pledge Times",
+    "description": "Corona is less active in areas with vitamin DRecently, the World Health Organization has also said that the least impact of this virus has been seen in the",
+    "url": "https://pledgetimes.com/vitamin-d-effective-against-corona-chance-of-dying-from-infection-reduced-by-52-percent/",
+    "urlToImage": "https://navbharattimes.indiatimes.com/photo/msid-78338862,imgsize-192691/pic.jpg",
+    "publishedAt": "2020-09-26T17:11:23Z",
+    "content": "WashingtonThe death toll of persons infected with the corona virus is increasing day by day. So far, more than 1 million people have died from this deadly epidemic worldwide. At the same time, a rece… [+2318 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "NDTV News"
+      "name": "CNBC"
     },
-    "author": null,
-    "title": "India's Coronavirus Tally Nears 60 Lakh-Mark, 88,600 New Cases In A Day - NDTV",
-    "description": "India recorded 88,600 new coronavirus cases with 1,124 deaths in the past 24 hours as its coronavirus tally neared the 60-lakh mark, shows the Health Ministry's COVID-19 data. With 92,043 people having fought off the disease in the last 24 hours, the number o…",
-    "url": "https://www.ndtv.com/india-news/indias-coronavirus-tally-nears-60-lakh-mark-88-600-fresh-cases-1-124-deaths-in-a-day-49-4-lakh-patients-have-recovered-2301623",
-    "urlToImage": "https://c.ndtvimg.com/2020-09/gai8acc_coronavirus-india-september-2020-afp-650_650x400_27_September_20.jpg",
-    "publishedAt": "2020-09-27T05:28:23Z",
-    "content": "<li>With 59,92,532 total cases, India is the second worst-affected country by the coronavirus pandemic, second only to the United States which has more than 72 lakh cases. Global coronavirus infectio… [+2651 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Indian Express"
-    },
-    "author": "Dipanita Nath",
-    "title": "Why the Belarus Free Theatre, inspired by Gandhi’s non-violence, remains a voice of dissent - The Indian Express",
-    "description": "Long before Belarus’s streets erupted in protest, a theatre group had been exiled for its dogged, but peaceful, resistance to the Alexander Lukashenko regime",
-    "url": "https://indianexpress.com/article/express-sunday-eye/why-the-belarus-free-theatre-inspired-by-gandhis-non-violence-remains-a-voice-of-dissent-6617152/",
-    "urlToImage": "https://images.indianexpress.com/2020/09/Nicolai-Khalezin-and-Natalia-Kaliada.jpg",
-    "publishedAt": "2020-09-27T01:10:19Z",
-    "content": "Natalia Kaliada and Nikolai Khalezin, founders of Belarus Free Theatre (Photo: Marilyn Kingwill)On January 3, 2011, troops in Belarus surrounded the international airport in Minsk, from where a group… [+7674 chars]"
+    "author": "Jade Scipioni",
+    "title": "Dr. Fauci says to take vitamin D if you're deficient — here's how to know - CNBC",
+    "description": "Experts say signs of vitamin D deficiency are often subtle. But getting tested for vitamin D is controversial among medical professionals. Here's what you need to know.",
+    "url": "https://www.cnbc.com/2020/09/26/how-to-know-if-you-have-a-vitamin-d-deficiency.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106597829-1593528270253preview-2.jpg?v=1600435953",
+    "publishedAt": "2020-09-26T13:30:00Z",
+    "content": "While Dr. Anthony Fauci admits most \"so-called immune boosting\" supplements being marketed amid Covid-19 mostly do \"nothing,\" he does believe in the benefits of vitamin D.\r\n\"If you are deficient in v… [+8135 chars]"
   },
   {
     "source": {
@@ -494,6 +481,32 @@ export const mockResponse = [
     "urlToImage": "https://static.toiimg.com/thumb/msid-78334806,width-1070,height-580,imgsize-154134,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
     "publishedAt": "2020-09-26T12:15:00Z",
     "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Newkerala.com"
+    },
+    "author": null,
+    "title": "Vitamin D Cuts Complications, Risk Of Death In Covid Patients | newkerala.com Health News - New Kerala",
+    "description": "Health News: \nVitamin D Cuts Complications, Risk Of Death In Covid Patients\n - A new research adds to the growing body of evidence that patients with sufficient levels of Vitamin D are less likely to experience complications and die from Covid-19....",
+    "url": "https://www.newkerala.com/news/2020/171138.htm",
+    "urlToImage": null,
+    "publishedAt": "2020-09-26T10:20:39Z",
+    "content": "According to the study, published in the journal PLOS ONE, hospitalised Covid-19 patients who were vitamin D sufficient, with a blood level of 25-hydroxyvitamin D of at least 30 ng/mL (a measure of v… [+1992 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Covid updates: Death toll from global pandemic nears one million",
+    "description": "The virus that spread from one Chinese city has killed nearly a million and shows no sign of abating.",
+    "url": "http://www.bbc.co.uk/news/live/world-54315280",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.3/bbc_news_logo.png",
+    "publishedAt": "2020-09-28T06:52:29.6107329Z",
+    "content": "Thousands of students are isolating after several virus outbreaksImage caption: Thousands of students are isolating after several virus outbreaks\r\nThousands of students are isolating at university ac… [+771 chars]"
   },
   {
     "source": {
@@ -572,19 +585,6 @@ export const mockResponse = [
     "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/151AE/production/_114664468_trump1.jpg",
     "publishedAt": "2020-09-27T23:22:23.0200542Z",
     "content": null
-  },
-  {
-    "source": {
-      "id": "bbc-news",
-      "name": "BBC News"
-    },
-    "author": "BBC News",
-    "title": "PM promises to protect 30% of UK's land by 2030",
-    "description": "Countries must act now to reverse biodiversity loss, Boris Johnson will tell a UN event later.",
-    "url": "http://www.bbc.co.uk/news/uk-54320030",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E2A/production/_114662630_gettyimages-1090497300.jpg",
-    "publishedAt": "2020-09-27T23:01:02Z",
-    "content": "Image copyrightGetty ImagesImage caption\r\n The Lake District is one of 10 national parks in England\r\nAn extra 400,000 hectares of English countryside will be protected to support the recovery of natu… [+3130 chars]"
   },
   {
     "source": {
@@ -631,6 +631,19 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
+    "title": "Covid updates: Death toll from global pandemic nears one million",
+    "description": "The virus that spread from one Chinese city has killed nearly a million and shows no sign of abating.",
+    "url": "http://www.bbc.co.uk/news/live/world-54315280",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.3/bbc_news_logo.png",
+    "publishedAt": "2020-09-28T06:52:29.6107329Z",
+    "content": "Thousands of students are isolating after several virus outbreaksImage caption: Thousands of students are isolating after several virus outbreaks\r\nThousands of students are isolating at university ac… [+771 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
     "title": "Dreamworld accident: Australian theme park fined over four deaths",
     "description": "Four people were crushed to death on a water ride at the Dreamworld theme park in 2016.",
     "url": "http://www.bbc.co.uk/news/world-australia-54321389",
@@ -702,19 +715,6 @@ export const mockResponse = [
     "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/151AE/production/_114664468_trump1.jpg",
     "publishedAt": "2020-09-27T23:22:23.0200542Z",
     "content": null
-  },
-  {
-    "source": {
-      "id": "bbc-news",
-      "name": "BBC News"
-    },
-    "author": "BBC News",
-    "title": "PM promises to protect 30% of UK's land by 2030",
-    "description": "Countries must act now to reverse biodiversity loss, Boris Johnson will tell a UN event later.",
-    "url": "http://www.bbc.co.uk/news/uk-54320030",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E2A/production/_114662630_gettyimages-1090497300.jpg",
-    "publishedAt": "2020-09-27T23:01:02Z",
-    "content": "Image copyrightGetty ImagesImage caption\r\n The Lake District is one of 10 national parks in England\r\nAn extra 400,000 hectares of English countryside will be protected to support the recovery of natu… [+3130 chars]"
   },
   {
     "source": {
