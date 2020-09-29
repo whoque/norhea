@@ -58,16 +58,16 @@
 }
 .fullCard {
     position: fixed;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
+    width: 95%;
+    height: 95%;
     z-index: 999;
     background: white;
     cursor: auto;
-    max-width: 800px;
+    max-width: 500px;
+    max-height: 600px;
+    top: 50%;
     left: 50%;
-    transform: translate(-50%, 0);
+    transform: translate(-50%, -50%);
 }
 .card__title__full {
     font-size: 22px;
