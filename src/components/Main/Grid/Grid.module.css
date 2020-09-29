@@ -11,4 +11,15 @@
     list-style: none;
 }
 /* @media only screen and (min-width: 900px) {
+    .cards > li {
+        display: flex;
+        position: fixed;
+        width: 100vw;
+        height: 100%;
+        top: 0;
+        left: 0;
+        z-index: 999;
+        background: #2e2a2a;
+        align-items: center;
+    }
 } */

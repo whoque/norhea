@@ -61,10 +61,13 @@
     top: 0;
     left: 0;
     height: 100%;
-    width: 100vw;
+    width: 100%;
     z-index: 999;
     background: white;
     cursor: auto;
+    max-width: 800px;
+    left: 50%;
+    transform: translate(-50%, 0);
 }
 .card__title__full {
     font-size: 22px;
@@ -103,4 +106,16 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.card__wrapper {
+    display: flex;
+    position: fixed;
+    width: 100vw;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background: #2e2a2a;
+    align-items: center;
 }
