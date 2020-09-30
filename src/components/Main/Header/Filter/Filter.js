@@ -34,12 +34,12 @@ const Filter = () => {
     const blockElementClosehandler = (index) => {
         if (index > -1) {
             const filteredBlockers = [...blockers];
-            if(filteredBlockers[index] === 'rhea' || filteredBlockers[index] === 'kangana') {
-                alert("Sorry blocked on public demand !")
-            } else {
+            // if(filteredBlockers[index] === 'rhea' || filteredBlockers[index] === 'kangana') {
+            //     alert("Sorry blocked by public demand !")
+            // } else {
                 filteredBlockers.splice(index, 1);
                 setBlockers(filteredBlockers);
-            }
+            // }
         }
     }
 
@@ -53,7 +53,7 @@ const Filter = () => {
                             blockers.map((elment, index) => (
                                 <li key={index}>{elment}</li>
                             ))
-                        ) : null}
+                        ) : <ul className={styles.blocker__ul}><li>none</li></ul>}
                     </ul>  
                 </div>
             </div>
@@ -66,7 +66,11 @@ const Filter = () => {
                         <button onClick={() => blockElementClosehandler(index)}>x</button>
                     </div>
                 ))
-                ) : null}
+                ) : (
+                <div className={styles.blocker__display_item}>
+                    <div className={styles.noBlockedMsg}>Add keywords to block</div>
+                </div>
+            )}
             </div>
             <div className={styles.block__add}>
                 <input

@@ -4,25 +4,40 @@ import loaderImage from './assets/garbage.gif';
 import Main from './components/Main/Main';
 import { defaultBlockers } from "./constant";
 import TextAnim from './components/TextAnim/TextAnim';
+import { transitions, positions, Provider as AlertProvider } from 'react-alert'
+import AlertTemplate from 'react-alert-template-basic'
 
 function App() {
+
   const [isModalVisible, setModalVisibility] = useState(true);
+
   localStorage.setItem("norhea", JSON.stringify(defaultBlockers));
+
   setTimeout(() => {
     setModalVisibility(false);
   }, 5000);
+
+  const alertOptions = {
+    position: positions.BOTTOM_CENTER,
+    timeout: 2500,
+    offset: '10px',
+    transition: transitions.SCALE
+  }
+
   return (
-    <div className="app">
-      <div className={`modal ${isModalVisible ? '' : 'fadeOut' }`} >
-        {!isModalVisible ? null:(
-          <TextAnim />
-        )}
-        <img alt="" src={loaderImage} />
+    <AlertProvider template={AlertTemplate} {...alertOptions}>
+      <div className="app">
+        <div className={`modal ${isModalVisible ? '' : 'fadeOut' }`} >
+          {!isModalVisible ? null:(
+            <TextAnim />
+          )}
+          <img alt="" src={loaderImage} />
+        </div>
+        <div className={`${isModalVisible ? 'fadeOut' : 'fadeIn' }`}>
+          <Main />
+        </div>
       </div>
-      <div className={`${isModalVisible ? 'fadeOut' : 'fadeIn' }`}>
-        <Main />
-      </div>
-    </div>
+    </AlertProvider>
   );
 }
 

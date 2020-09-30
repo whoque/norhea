@@ -167,3 +167,9 @@
     left: -1px;
     cursor: pointer;
 }
+
+.noBlockedMsg {
+    color: #2e2a2a;
+    font-size: 12px;
+    padding: 5px;
+}

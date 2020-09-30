@@ -9,10 +9,10 @@ const TextAnim = () => {
                     Unloading
                 </p>
                 <ul className={styles.content__container__list}>
-                    <li className={styles.content__container__list__item}>Rhea</li>
                     <li className={styles.content__container__list__item}>...</li>
                     <li className={styles.content__container__list__item}>Kangana</li>
-                    <li className={styles.content__container__list__item}>...</li>
+                    <li className={styles.content__container__list__item}>NCB</li>
+                    <li className={styles.content__container__list__item}>Rhea</li>
                 </ul>
             </div>
         </div>

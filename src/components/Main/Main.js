@@ -5,9 +5,11 @@ import axios from 'axios';
 import Grid from './Grid/Grid';
 import { mockResponse } from '../../constant';
 import Header from './Header/Header';
+import { useAlert } from 'react-alert';
 
 const Main = () => {
     const [news, setNews] = useState([]);
+    const alert = useAlert();
     useEffect(() => {
         // const one = `http://newsapi.org/v2/top-headlines?page=1&pageSize=20&country=in&apiKey=${API_KEY}`;
         // const two = `http://newsapi.org/v2/top-headlines?page=2&pageSize=20&country=in&apiKey=${API_KEY}`;
@@ -32,9 +34,9 @@ const Main = () => {
         // })).catch(errors => {
         // })
 
-        filterNews(mockResponse);
+        filterNews(mockResponse, true);
     }, []);
-    const filterNews = (news) => {
+    const filterNews = (news, firstTimeLoad) => {
         const blockers = JSON.parse(localStorage.getItem('norhea'));
         const result = news.filter(newsItem => {
             let checker = '';
@@ -54,10 +56,15 @@ const Main = () => {
             }
             return isGood;
         });
+        firstTimeLoad ?
+            setTimeout(() => {
+                alert.show(`Blocking ${news.length - result.length} aticles..`);
+            },5000) :
+            alert.show(`Blocking ${news.length - result.length} aticles..`);
         setNews(result);
     }
     const filterNewsWithChanges = () => {
-        filterNews(news);
+        filterNews(mockResponse, false);
     }
     return (
         <div className={styles.main}>

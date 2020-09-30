@@ -1,18 +1,44 @@
 export const API_KEY = "64afb162d60e46af9fc23521cf59fad9";
-export const defaultBlockers = ["kangana", "rhea"];
+export const defaultBlockers = ["kangana", "rhea", "ncb"];
 export const mockResponse = [
   {
     "source": {
       "id": null,
       "name": "Hindustan Times"
     },
-    "author": "Shishir Gupta",
-    "title": "Post Ladakh, PLA no longer a bogey for Indian Army | Analysis - Hindustan Times",
-    "description": "Sixteen years later, the Indian Army has finally shrugged off the bogey of the PLA and is staring down at the Chinese at Ladakh with the sole objective of restoring status quo ante at all friction points along the line of actual control.",
-    "url": "https://www.hindustantimes.com/india-news/post-ladakh-pla-no-longer-a-bogey-for-indian-army/story-2NVkdELLl9pbkoUOryJvyL.html",
-    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/29/Pictures/_e90cb3fe-020e-11eb-b32f-32d5f7e2c720.png",
-    "publishedAt": "2020-09-29T06:10:36Z",
-    "content": "On the eve of the 2004 general elections, a meeting of China Study Group (CSG) was held to review the status of border roads along the Line of Actual Control (LAC) with the then Vice Chief of Army St… [+4272 chars]"
+    "author": "Abraham Thomas",
+    "title": "Rs 50 crore at stake if civil services exam deferred: UPSC affidavit in Supreme Court - Hindustan Times",
+    "description": "The affidavit comes ahead of a crucial hearing by the court on a PIL moved by 20 civil service aspirants who want the examination to be postponed in the wake of the Covid-19 pandemic and floods in several parts of the country",
+    "url": "https://www.hindustantimes.com/education/rs-50-crore-at-stake-if-civil-service-exam-deferred-upsc-affidavit-in-supreme-court/story-1gwU8O21nhT2r93ILlrT4I.html",
+    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/30/Pictures/supreme-court-of-india-photo-by-rajkumar_b61d6238-02de-11eb-a0ae-05799bfe6215.jpg",
+    "publishedAt": "2020-09-30T06:08:00Z",
+    "content": "The government’s top recruitment body—Union Public Service Commission (UPSC)—has already incurred expenses of over Rs 50 crore for conducting the Civil Services (Preliminary) Examination 2020 schedul… [+3455 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Tech Explorist"
+    },
+    "author": "https://www.facebook.com/malewar.amit",
+    "title": "Our solar system has a second alignment plane - Tech Explorist",
+    "description": "A study of comet motions indicates that the solar system has a second alignment plane. This has important implications for models of how comets originally formed in the solar system.",
+    "url": "https://www.techexplorist.com/solar-system-second-alignment-plane/35534/",
+    "urlToImage": "https://www.techexplorist.com/wp-content/uploads/2020/09/long-period-comets.jpg",
+    "publishedAt": "2020-09-30T05:56:01Z",
+    "content": "As seen from the Earth, the Sun, Moon, and planets all appear to move along the ecliptic. More precisely, the ecliptic is the Sun’s apparent path among the stars for a year. But there are exceptions … [+2939 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "hindustantimes.com | Edited by Arpan Rai",
+    "title": "Babri Masjid Demolition Case Verdict Live Updates: All accused except 6 inside court, judgment shor... - Hindustan Times",
+    "description": "Babri Masjid Demolition Case Verdict Live Updates: The key accused in the historic case include former deputy prime minister LK Advani, former Union minister MM Joshi, former Union minister Uma Bharti and former Uttar Pradesh chief minister Kalyan Singh.",
+    "url": "https://www.hindustantimes.com/india-news/babri-demolition-case-live-cbi-court-s-verdict-in-historic-case-shortly/story-Iyp1OlFhjzymMNUB8evtGI.html",
+    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/30/Pictures/babri-mosque-demolition-accused-case_abbe9026-02e5-11eb-b32f-32d5f7e2c720.jpg",
+    "publishedAt": "2020-09-30T05:49:18Z",
+    "content": "Special CBI judge Surendra Kumar Yadav is set to soon deliver his verdict in the Babri Masjid demolition case on Wednesday, 28 years after the 16th century structure was razed by a mob in Uttar Prade… [+3004 chars]"
   },
   {
     "source": {
@@ -20,12 +46,90 @@ export const mockResponse = [
       "name": "NDTV News"
     },
     "author": "Tasneem Akolawala",
-    "title": "OnePlus Nord Series Getting a New Phone Soon - Gadgets 360",
-    "description": "OnePlus Nord series is getting a new phone. OnePlus has started teasing the arrival of this phone on Instagram. The OnePlus Nord was launched two months ago, and during that time, the company had confirmed that more phones in the series will be launched in th…",
-    "url": "https://gadgets.ndtv.com/mobiles/news/oneplus-nord-series-n-10-5g-phone-teased-coming-soon-2302517",
-    "urlToImage": "https://i.gadgets360cdn.com/large/oneplus_nord_instagram_1601358178244.jpg",
-    "publishedAt": "2020-09-29T05:49:03Z",
-    "content": "OnePlus Nord series is getting a new phone. OnePlus has started teasing the arrival of this phone on Instagram. The OnePlus Nord was launched two months ago, and during that time, the company had con… [+1793 chars]"
+    "title": "Google Pixel 5, Pixel 4a 5G Launching Today: How to Watch Live Stream, Expected Price and Specifications - Gadgets 360",
+    "description": "Google Pixel 5 and Google Pixel 4a 5G phones are all set to launch today. The tech giant is hosting a virtual event titled ‘Launch Night In’ and a new smart speaker and Chromecast are teased to be introduced as well.",
+    "url": "https://gadgets.ndtv.com/mobiles/news/google-pixel-5-4a-5g-launch-today-how-to-watch-live-stream-expected-price-specifications-2303084",
+    "urlToImage": "https://i.gadgets360cdn.com/large/google_pixel_4a_5__1601443957917.jpg",
+    "publishedAt": "2020-09-30T05:41:18Z",
+    "content": "Google Pixel 5 and Google Pixel 4a 5G phones are all set to launch today. The tech giant is hosting a virtual event titled Launch Night In' and a new smart speaker and Chromecast are teased to be int… [+4170 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "TIMESOFINDIA.COM",
+    "title": "Coronavirus: This could be the best way to disinfect and reuse N95 masks - Times of India",
+    "description": "Scientists have come up with a new way of disinfecting and prolonging the use of masks right now, which could be a big breakthrough.",
+    "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-this-could-be-the-best-way-to-disinfect-and-reuse-n95-masks/photostory/78386961.cms",
+    "urlToImage": "https://static.toiimg.com/photo/78387170.cms",
+    "publishedAt": "2020-09-30T05:30:00Z",
+    "content": "Masks are considered to be an essential accessory right now. While any kind of face-covering could garner some level of protection from the harmful COVID causing virus, N95 masks, experts suggest are… [+700 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "India.com"
+    },
+    "author": "India.com Sports Desk",
+    "title": "RR vs KKR Dream11 Team Prediction Dream11 IPL 2020: Captain, Vice-captain, Fantasy Playing Tips, Probable XIs - India.com",
+    "description": "Rajasthan Royals vs Kolkata Knight Riders Dream11 Team Prediction Dream11 IPL 2020 - Check My Dream11 Team, Best players list of RR vs KKR, Dream11 IPL 2020, Rajasthan Royals Dream11 Team Player List, Kolkata Knight Riders Dream11 Team Player List, Dream11 Gu…",
+    "url": "https://www.india.com/sports/rr-vs-kkr-dream11-team-cricket-fantasy-prediction-ipl-2020-top-fantasy-picks-rajasthan-royals-vs-kolkata-knight-riders-captain-t20-match-probable-xis-start-time-dubai-international-stadium-7-30pm-ist-4156937/",
+    "urlToImage": "https://www.india.com/wp-content/uploads/2020/09/Dream11-IPL-Guru-Tips-And-Prediction_Rajasthan-Royals-vs-Kolkata-Knight-Riders-Match-12©Indiacom.jpg",
+    "publishedAt": "2020-09-30T04:45:00Z",
+    "content": "Dream11 Tips And Prediction IPL 2020\r\nRajasthan Royals vs Kolkata Knight Riders Dream11 Team Prediction IPL 2020 – Fantasy Playing Tips, Probable XIs, Dream11 Guru Tips, Probable XIs For Today’s RR v… [+4221 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBCTV18"
+    },
+    "author": null,
+    "title": "Stock Market Live: Sensex trades lower, Nifty around 11,200; banks, metals, drag - CNBCTV18",
+    "description": "Stock Market Live:  The Indian benchmark indices Sensex and Nifty traded lower on Wednesday amid mixed global cues. Broader indices declined over 0.1 percent. Among sectors, Nifty PSU Bank, Nifty Metals, Nifty Financial Services and Nifty IT traded lower whil…",
+    "url": "https://www.cnbctv18.com/market/stocks/stock-market-live-sensex-nifty-likely-to-open-higher-vodafone-idea-hdfc-bandhan-bank-in-focus-agm-agr-banks-us-markets-asian-markets-indiabulls-finance-minister-rbi-sebi-mutual-funds-ipo-mazagon-dock-7060261.htm/",
+    "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2019/11/BSE-market-stocks-768x496.jpg",
+    "publishedAt": "2020-09-30T04:28:49Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "WION"
+    },
+    "author": "WION Web Team",
+    "title": "US election 2020: NASA astronauts on SpaceX`s Crew Dragon will vote from space - WION",
+    "description": "Three NASA astronauts on SpaceXs first operational Crew Dragon mission will vote from space in the US election 2020 to be held on November 3.",
+    "url": "https://www.wionews.com/world/us-election-2020-nasa-astronauts-on-spacexs-crew-dragon-will-vote-from-space-331336",
+    "urlToImage": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/09/30/162385-untitled-design-24.jpg, Pilot Victor Glover, Crew Dragon Commander Michael Hopkins seated in SpaceX’s Crew Dragon spacecraft \" typeof=\"foaf:Image\" />",
+    "publishedAt": "2020-09-30T04:28:31Z",
+    "content": "Three NASA astronauts on SpaceX's first operational Crew Dragon mission will vote from space in the US election 2020 to be held on November 3.\r\nSpaceXs Crew Dragon Resilience capsule will carry NASA … [+1848 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "News18"
+    },
+    "author": "News18",
+    "title": "Poco M2 Goes On Sale On Flipkart Today: Rs 10,999 Onwards With Exchange, Discount & Cashback Offers - News18",
+    "description": "The Poco M2 is priced at Rs 10,999 for the 6GB RAM and 64GB storage variant, while the higher spec 6GB RAM and 128GB storage variant is priced at Rs 12,499.",
+    "url": "https://www.news18.com/news/tech/poco-m2-goes-on-sale-on-flipkart-today-rs-10999-onwards-with-exchange-discount-cashback-offers-2920735.html",
+    "urlToImage": "https://images.news18.com/ibnlive/uploads/2020/09/1601438392_poco-m2.jpg",
+    "publishedAt": "2020-09-30T04:00:52Z",
+    "content": "Poco M2 smartphone is set to go on sale in India. You will be able to buy this on Flipkart.com and all variants as well as colour options will go on sale. The Poco M2 is priced at Rs 10,999 for the 6… [+2158 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Chidanand Rajghatta",
+    "title": "Messy debate ends with dire warning from Trump: 'This is not going to end well' - Times of India",
+    "description": "US News: The US embarrassed itself before the world for nearly 100 minutes with a “Presidential debate” that was akin to mud-wrestling. President Trump walked",
+    "url": "https://timesofindia.indiatimes.com/world/us/messy-debate-ends-with-dire-warning-from-trump-this-is-not-going-to-end-well/articleshow/78397485.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-78398291,width-1070,height-580,imgsize-1277072,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2020-09-30T03:57:00Z",
+    "content": null
   },
   {
     "source": {
@@ -33,90 +137,311 @@ export const mockResponse = [
       "name": "NDTV News"
     },
     "author": null,
-    "title": "\"Like My Father\": News Anchor Amid Row Over IPS Officer Seen Beating Wife - NDTV",
-    "description": "The news anchor of a regional TV channel in Bhopal has filed a police complaint against the wife and son of an IPS (police) officer, accusing them of tarnishing her reputation.",
-    "url": "https://www.ndtv.com/india-news/like-my-father-news-anchor-amid-row-over-ips-officer-seen-beating-wife-2302520",
-    "urlToImage": "https://c.ndtvimg.com/2020-09/gesjkrh4_madhya-pradesh-senior-cop-beating-wife-ndtv_625x300_28_September_20.jpg",
-    "publishedAt": "2020-09-29T05:46:05Z",
-    "content": "Madhya Pradesh police officer Purushottam Sharma justified his actions against his wife\r\nBhopal: The news anchor of a regional TV channel in Bhopal has filed a police complaint against the wife and s… [+3514 chars]"
-  },
-  {
-    "source": {
-      "id": "al-jazeera-english",
-      "name": "Al Jazeera English"
-    },
-    "author": "Al Jazeera",
-    "title": "Amnesty to halt work in India after its ‘account frozen’ - Al Jazeera English",
-    "description": "Rights body says it shut its operations due to a continuing government crackdown over the last two years.",
-    "url": "https://www.aljazeera.com/news/2020/9/29/amnesty-says-its-halting-work-in-india-due-to-govt-witch-hunt",
-    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2020/09/2020-09-29T062416Z_1830482280_RC268J97QTZY_RTRMADP_3_INDIA-AMNESTY.jpg?resize=1200%2C630",
-    "publishedAt": "2020-09-29T05:39:13Z",
-    "content": "Amnesty International says it is halting work in India due to continuing crackdown and harassment by the government of Prime Minister Narendra Modi.\r\nThe human rights watchdog said the bank account o… [+2318 chars]"
+    "title": "Reliance Industries Retail Unit To Sell Rs 3,675-Crore Stake To US-Based General Atlantic - NDTV Profit",
+    "description": "Billionaire Mukesh Ambani-led Reliance Industries said on Wednesday that US-based General Atlantic will invest Rs 3,675 crore for a 0.84 per cent stake in its retail arm, Reliance Retail Ventures. The deal gives Reliance Retail a pre-money valuation of Rs 4.2…",
+    "url": "https://www.ndtv.com/business/mukesh-ambani-led-reliance-industries-retail-unit-to-sell-0-8-stake-to-us-based-general-atlantic-for-rs-3-675-crore-2303007",
+    "urlToImage": "https://c.ndtvimg.com/2020-01/c7fhfta8_reliance-industries-ril-reuters_625x300_29_January_20.jpg",
+    "publishedAt": "2020-09-30T03:17:13Z",
+    "content": "<li>Reliance Industries shares climbed up 1 per cent after the announcement. At 10:42 am, the stock traded 0.65 per cent higher at Rs 2,259.45 apiece on the BSE, outperforming the benchmark Sensex in… [+1832 chars]"
   },
   {
     "source": {
       "id": "the-times-of-india",
       "name": "The Times of India"
     },
-    "author": "Reuters",
-    "title": "Walmart looking at up to $25 billion investment in Tata Group's 'super app': Report - Times of India",
-    "description": "India Business News: Walmart Inc is in talks with Tata Group for a potential investment of up to $25 billion in the salt-to-software conglomerate's new \"super app\", a news",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/walmart-looking-at-up-to-25-billion-investment-in-tata-groups-super-app-report/articleshow/78378456.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-78378438,width-1070,height-580,imgsize-89167,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-    "publishedAt": "2020-09-29T05:29:00Z",
+    "author": "Ahmed Ali",
+    "title": "NCB has ‘almost’ given clean chit to Deepika Padukone, Sara Ali Khan, Shraddha Kapoor, Karishma Prakash - Times of India",
+    "description": "NCB has “almost” given a clean chit to actors Deepika Padukone, Sara Ali Khan and Shraddha Kapoor, and Padukone’s m",
+    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ncb-has-almost-given-clean-chit-to-deepika-sara-shraddha-karishma/articleshow/78397816.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-78397837,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-330892/78397837.jpg",
+    "publishedAt": "2020-09-30T03:17:00Z",
     "content": null
   },
   {
     "source": {
       "id": null,
-      "name": "Bollywoodshaadis.com"
+      "name": "Hindustan Times"
     },
-    "author": "https://www.facebook.com/akanksha.gupta.92",
-    "title": "Unseen Photo Of Inaaya Naumi Kemmu With Kemmu Family Including Soha, Kunal And Paternal Grandparents - BollywoodShaadis.com",
-    "description": "As Inaaya Naumi Kemmu turned 3 on September 29, 2020, check out some glimpses of her bond with the Kemmu clan including her paternal grandparents and bua. Also, check out the family picture of Kemmus.",
-    "url": "https://www.bollywoodshaadis.com/articles/unseen-photo-of-inaaya-naumi-kemmu-with-kemmu-family-20729",
-    "urlToImage": "https://www.bollywoodshaadis.com/img/article-l-202092725171519035000.jpg",
-    "publishedAt": "2020-09-29T05:17:51Z",
-    "content": "Do you know why Inaaya Naumi Kemmu is a lucky child? Because she is blessed to have her maternal grandparent, Sharmila Tagore and paternal grandparents, Ravi Kemmu and Jyoti Kemmu and the quality tim… [+5016 chars]"
+    "author": "HT Entertainment Desk",
+    "title": "Juhi Chawla says her kids are embarrassed to see her films, son finds her romancing on screen ‘stra... - Hindustan Times",
+    "description": "Juhi Chawla said that her children, Jahnavi and Arjun, are not too keen on watching her films, especially her earlier work. She added that her son once told her that he would not watch her romancing on screen as he found it ‘strange’.",
+    "url": "https://www.hindustantimes.com/bollywood/juhi-chawla-says-her-kids-are-embarrassed-to-see-her-films-son-finds-her-romancing-on-screen-strange/story-U4puBvqTbtbMHYZlDpGzSN.html",
+    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/30/Pictures/_9916b0bc-02c6-11eb-8ced-aae354dd8a08.jpg",
+    "publishedAt": "2020-09-30T02:53:09Z",
+    "content": "Juhi Chawla has played a range of roles over the years, from a battered wife (Daraar) to an up-and-coming model who wants to live big (Yes Boss). Many of her earlier films were popular with kids, but… [+1541 chars]"
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "PTI",
+    "title": "IPL 2020, SRH vs DC: Rashid Khan remembers his late mother and biggest fan after match-winning performanc - Times of India",
+    "description": "Cricket News: Sunrisers Hyderabad's main strike bowler Rashid Khan struggled to hold back tears, dedicating his Man of the Match performance against Delhi Capitals",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2020-srh-vs-dc-rashid-khan-remembers-his-late-mother-and-biggest-fan-after-match-winning-performance/articleshow/78397345.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-78397380,width-1070,height-580,imgsize-553558,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2020-09-30T02:36:00Z",
+    "content": "For you, #OrangeArmy https://t.co/yxgo4Jc3iU\r\n— SunRisers Hyderabad (@SunRisers) 1601402076000"
   },
   {
     "source": {
       "id": null,
-      "name": "SamMobile"
-    },
-    "author": "SamMobile",
-    "title": "Samsung confirms One UI 3.0 Beta update is coming soon for Galaxy S20 series - SamMobile",
-    "description": "Samsung had unveiled the Android 11-based One UI 3.0 update for the Galaxy S20 series two months ago. The developer ...",
-    "url": "https://www.sammobile.com/news/one-ui-3-0-beta-coming-soon-galaxy-s20-series/",
-    "urlToImage": "https://www.sammobile.com/wp-content/uploads/2020/02/Galaxy-S20-hands-on-35-720x405.jpg",
-    "publishedAt": "2020-09-29T05:10:00Z",
-    "content": "Samsung had unveiled the Android 11-based One UI 3.0 update for the Galaxy S20 series two months ago. The developer beta version of One UI 3.0 was released earlier this month, and the UI design chang… [+2074 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "News-Medical.Net"
+      "name": "Moneycontrol"
     },
     "author": null,
-    "title": "A special issue on the emerging COVID-19 infection - News-Medical.Net",
-    "description": "Acta Pharmaceutica Sinica B publishes special issue on 'Research on Emerging COVID-19 (Target, Mechanism, and Therapeutics)' edited by Hai-Bin Luo, School of Pharmaceutical Sciences, Sun Yat-sen University, Guangzhou, China; Shilin Chen, Institute of Chinese …",
-    "url": "https://www.news-medical.net/news/20200929/A-special-issue-on-the-emerging-COVID-19-infection.aspx",
-    "urlToImage": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fSARS-620x480.jpg",
-    "publishedAt": "2020-09-29T05:05:00Z",
-    "content": "Reviewed by Emily Henderson, B.Sc.Sep 29 2020\r\nActa Pharmaceutica Sinica B publishes special issue on 'Research on Emerging COVID-19 (Target, Mechanism, and Therapeutics)' edited by Hai-Bin Luo, Scho… [+3494 chars]"
+    "title": "Moderna COVID-19 vaccine appears safe, shows signs of working in older adults: Study - Moneycontrol",
+    "description": "The study, published in the New England Journal of Medicine, offers a more complete picture of the vaccine's safety in older adults, a group at increased risk of severe complications from COVID-19.",
+    "url": "https://www.moneycontrol.com/news/world/moderna-covid-19-vaccine-appears-safe-shows-signs-of-working-in-older-adults-study-5902381.html",
+    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2020/09/vaccinecovid-19-770x433.jpg",
+    "publishedAt": "2020-09-30T02:30:00Z",
+    "content": "Results from an early safety study of Moderna Inc's coronavirus vaccine candidate in older adults showed that it produced virus-neutralizing antibodies at levels similar to those seen in younger adul… [+2217 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "SpaceWatch.Global"
+      "name": "Thewire.in"
     },
-    "author": "Markus Payer",
-    "title": "NASA sends Estée Lauder marketing payload to ISS - SpaceWatch.Global",
-    "description": "Berlin, 28 September 2020. – The International Space Station (ISS) is an important laboratory for scientific and high-tech research. But a different payload on an upcoming ISS resupply mission is now",
-    "url": "https://spacewatch.global/2020/09/nasa-sends-marketing-payload-from-estee-lauder-to-the-iss/",
-    "urlToImage": "https://spacewatch.global/wp-content/uploads/2020/09/X5_Product_on_Background_Expiry_Aug_2022-660x330.jpg",
-    "publishedAt": "2020-09-29T05:01:05Z",
-    "content": "Image: NASA\r\nBerlin, 28 September 2020. The International Space Station (ISS) is an important laboratory for scientific and high-tech research. But a different payload on an upcoming ISS resupply mis… [+1385 chars]"
+    "author": "Raghavendra Gadagkar",
+    "title": "More Fun Than Fun: Dung Beetles, the Milky Way and the Marvels of Animal Navigation - The Wire Science",
+    "description": "Insects have remarkable abilities to navigate in two- or three-dimensional space. In doing so, they have to solve many perceptual and computational problems.",
+    "url": "https://science.thewire.in/the-sciences/dung-beetles-path-integration-milky-way-animal-navigation/",
+    "urlToImage": "https://cdn.thewire.in/wp-content/uploads/2020/09/29131116/image1-6.jpg",
+    "publishedAt": "2020-09-30T02:29:00Z",
+    "content": "Photo: Arthur Chapman/Flickr, CC BY-NC-SA 2.0.\r\nThis article is part of the ‘More Fun Than Fun‘ column by Prof Raghavendra Gadagkar. He will explore interesting research papers or books and, while pl… [+10584 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Tribune India"
+    },
+    "author": "Tribune News Service",
+    "title": "Don’t recognise UT status for Ladakh: Beijing - The Tribune India",
+    "description": "",
+    "url": "https://www.tribuneindia.com/news/nation/dont-recognise-ut-status-for-ladakh-beijing-148582",
+    "urlToImage": "https://cmsimages.tribuneindia.com/gallary_content/2020/9/Desk/2020_9$largeimg_1290448954.jpg",
+    "publishedAt": "2020-09-30T01:45:00Z",
+    "content": "The Tribune, now published from Chandigarh, started publication on February 2, 1881, in Lahore (now in Pakistan). It was started by Sardar Dyal Singh Majithia, a public-spirited philanthropist, and i… [+465 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "THE WEEK"
+    },
+    "author": null,
+    "title": "US House passes bipartisan bill aimed at raising awareness about heart disease in S Asians - THE WEEK",
+    "description": "(This story has not been edited by THE WEEK and is auto-generated from a PTI",
+    "url": "https://www.theweek.in/wire-updates/international/2020/09/30/fes5-us-heart-asians-bill.html",
+    "urlToImage": "https://www.theweek.in/etc/designs/week/img/logo-main.png",
+    "publishedAt": "2020-09-30T01:14:08Z",
+    "content": "By Lalit K JhaWashington, Sep 30 (PTI) The US House of Representatives has passed a bipartisan bill aimed at raising awareness about the alarming rate of heart disease in South Asian communities thro… [+2947 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NDTV News"
+    },
+    "author": "NDTV",
+    "title": "US Presidential Debate Live Updates: \"Paid Millions Of Dollars In Taxes,\" Says Trump - NDTV",
+    "description": "US President Donald Trump today defended himself when questioned about a news report on the minimal amount of income tax paid by him, saying \"I don't want to pay tax.\"",
+    "url": "https://www.ndtv.com/world-news/us-first-2020-presidential-debate-live-updates-joe-biden-takes-on-donald-trump-in-first-presidential-debate-2302981",
+    "urlToImage": "https://c.ndtvimg.com/2020-09/kqg86if8_trump-and-biden-650_625x300_30_September_20.jpg",
+    "publishedAt": "2020-09-30T00:59:18Z",
+    "content": "US Presidential Debate: The debate will last for an estimated 90 minutes.\r\nNew Delhi: US President Donald Trump today defended himself when questioned about a news report on the minimal amount of inc… [+5497 chars]"
+  },
+  {
+    "source": {
+      "id": "engadget",
+      "name": "Engadget"
+    },
+    "author": "",
+    "title": "'Pokémon Go' will roll back some of its COVID-19-related changes - Engadget",
+    "description": "Some of the changes added to Pokémon Go that made it easier to play during COVID-19 lockdowns are going away as of October 1st.",
+    "url": "https://www.engadget.com/pokemon-go-temporary-coronavirus-bonuses-233343739.html",
+    "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-06%2Fa9b39120-91b0-11e9-bdd3-61d3bf9cf4a6&client=amp-blogside-v2&signature=490dd6926e17a667b817f8350e12c20ff4c11020",
+    "publishedAt": "2020-09-30T00:28:59Z",
+    "content": "As the coronavirus pandemic spread in the spring and summer, Pokémon Gorolled out a series of changes that made it easier for players to keep participating. Now Niantic Labs has announced that while … [+461 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "NDTV News"
+    },
+    "author": null,
+    "title": "\"Can't Use Such Language\": Bombay High Court Pulls Up Sanjay Raut In Kangana Ranaut Row - NDTV",
+    "description": "The Bombay High Court hauled up Shiv Sena's Sanjay Raut over remarks directed at actor Kangana Ranaut this month - while the two sparred over her comparing Mumbai to PoK - demanding to know if this was appropriate behaviour for an MP",
+    "url": "https://www.ndtv.com/india-news/cant-use-such-language-high-court-pulls-up-sanjay-raut-in-kangana-ranaut-row-2302866",
+    "urlToImage": "https://c.ndtvimg.com/2020-09/5tnm1qd_sanjay-raut-parliament-september-2020_650x400_17_September_20.jpg",
+    "publishedAt": "2020-09-30T00:11:00Z",
+    "content": "Sanjay Raut, a Shiv Sena Rajya Sabha MP, used an expletive in his tirade against Kangana Ranaut (File)\r\nMumbai: The Bombay High Court on Tuesday hauled up Shiv Sena MP Sanjay Raut over remarks direct… [+3410 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Forbes"
+    },
+    "author": "Ewan Spence",
+    "title": "Apple’s Disappointing Decision Revealed In New MacBook Pro Leak - Forbes Innovation",
+    "description": "Apple is widely expected to launch two new MacBooks during October. The laptops are very much on the bleeding edge of technology, but they will be missing one important feature.",
+    "url": "https://www.forbes.com/sites/ewanspence/2020/09/29/apple-macbook-pro-arm-innovation-design-missing-feature-display-screen-miniled/",
+    "urlToImage": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1055483148%2F0x0.jpg",
+    "publishedAt": "2020-09-29T23:52:00Z",
+    "content": "Apple is widely expected to launch two new MacBooks during October. They will be the first hardware available to the public using the new ARM-based processors instead of the current Intel chips. This… [+3540 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "PINKVILLA"
+    },
+    "author": "Pinkvilla Desk",
+    "title": "Bhumi Pednekar suggests a profession for Ranveer Singh and it will crack you up - PINKVILLA",
+    "description": "Bhumi Pednekar was last seen in the movie Dolly Kitty Aur Woh Chamakte Sitare. Recently, the actress got candid about her thoughts on Ranveer Singh.",
+    "url": "https://www.pinkvilla.com/entertainment/news/bhumi-pednekar-suggests-profession-ranveer-singh-and-it-will-crack-you-565534",
+    "urlToImage": "https://www.pinkvilla.com/files/styles/fbimagesection/public/bhumi_pednekar_suggests_a_profession_for_ranveer_singh_social.jpg?itok=mN3O_qsM",
+    "publishedAt": "2020-09-29T23:32:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "the-times-of-india",
+      "name": "The Times of India"
+    },
+    "author": "Rupali Mukherjee",
+    "title": "Serum to make extra 100 million vaccine doses - Times of India",
+    "description": "India News: Serum Institute of India will produce up to an additional 100 million COVID-19 vaccine doses for India and low and middle-income countries in 2021.The",
+    "url": "https://timesofindia.indiatimes.com/india/serum-to-make-extra-100-million-vaccine-doses/articleshow/78396158.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-78396156,width-1070,height-580,imgsize-136798,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2020-09-29T22:38:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Indian Express"
+    },
+    "author": "AP",
+    "title": "Armenia says Sukhoi-25 jet shot down; Azerbaijan and Turkey deny it - The Indian Express",
+    "description": "The move would represent a major escalation in the decades-old conflict between Armenia and Azerbaijan over the region that was reignited on Sunday. It followed numerous calls from around the globe for a cease-fire.",
+    "url": "https://indianexpress.com/article/world/armenia-azerbaijan-turkey-sukhoi-25-jet-shot-down-6636069/",
+    "urlToImage": "https://images.indianexpress.com/2020/09/Armenia-1.jpg",
+    "publishedAt": "2020-09-29T18:48:55Z",
+    "content": "By: AP | Yerevan | \r\nSeptember 30, 2020 12:18:55 am\r\nArmenian officials said an Su-25 from its air force was shot down in Armenian airspace by a Turkish F-16 fighter jet that took off from Azerbaijan… [+4154 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Scienceboard.net"
+    },
+    "author": "Samantha  Black, PhD, The Science Advisory Board editor in chief",
+    "title": "Specialized T cells have unique role in severe COVID-19 cases - The Science Board",
+    "description": "An unconventional subset of T cells may be strongly activated in patients with severe cases of COVID-19, according to a new study published in <em>Science Immunology</em> on September 28. This finding may lead to a new understanding of how the immune system r…",
+    "url": "https://www.scienceboard.net/index.aspx?sec=log&itemID=1416",
+    "urlToImage": "https://www.scienceboard.net/user/images/content_images/sup_imm/2020_03_31_17_25_0099_virus_coronavirus_SARS-CoV-2_20200331174658.jpeg",
+    "publishedAt": "2020-09-29T18:01:13Z",
+    "content": "The balance between protective versus pathological immune responses in COVID-19 has been a concern since the onset of the pandemic. SARS-CoV-2 infection can lead to acute respiratory distress syndrom… [+3747 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hindustan Times"
+    },
+    "author": "Rezaul H Laskar",
+    "title": "Foreign ministers of India, Bangladesh meet; review bilateral ties - Hindustan Times",
+    "description": "The two sides decided to form a “high level monitoring committee” headed by the secretary of Bangladesh’s Economic Relations Division and the Indian envoy in Dhaka to regularly review the implementation of projects under three lines of credit (LoC) agreements.",
+    "url": "https://www.hindustantimes.com/india-news/foreign-ministers-of-india-bangladesh-meet-review-bilateral-ties/story-JUFsyvJyt677jloiIuciKK.html",
+    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/29/Pictures/_4bc94354-0278-11eb-a0ae-05799bfe6215.jpg",
+    "publishedAt": "2020-09-29T17:43:00Z",
+    "content": "India and Bangladesh on Tuesday created a high-level mechanism to monitor development projects funded by New Delhi even as Dhaka sought removal of non-tariff barriers and greater trade facilitation t… [+4056 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Yahoo Entertainment"
+    },
+    "author": "Chaitra Anand",
+    "title": "Top 22 finance news today, Sep 29, 2020 - Yahoo India News",
+    "description": "Nobel Laureate Abhijit Banerjee on Tuesday said India is among the worst performing economies in the world and the government's economic stimulus was inadequate to tackle the problem.  British telco Vodafone Group won a decade-long battle against the Indian g…",
+    "url": "https://in.finance.yahoo.com/news/top-22-finance-news-today-sep-29-2020-162844604.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/OQ23sZ_0zbX9LB..1u_S_Q--~B/aD0xMzEzO3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-09/9a193220-026f-11eb-8f06-d9ae580f6cdb",
+    "publishedAt": "2020-09-29T16:28:00Z",
+    "content": "Major finance news today at a glance:\r\nWalmart looking at up to $25 billion investment in Tata Group's 'super app' - Mint\r\nWalmart Inc is in talks with Tata Group for a potential investment of up to … [+8720 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Business Standard"
+    },
+    "author": "Nidhi Verma, Aftab Ahmed and Vladimir Soldatkin | Reuters",
+    "title": "Rosneft, Saudi Aramco unlikely to bid in BPCL privatisation: Report - Business Standard",
+    "description": "A source said that Aramco has halted most of its investment plans into India due to the oil price crash and is unlikely to bid for BPCL",
+    "url": "https://www.business-standard.com/article/international/rosneft-saudi-aramco-unlikely-to-bid-for-bpcl-privatisation-report-120092901321_1.html",
+    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2017-11/24/full/1511491125-1099.jpg",
+    "publishedAt": "2020-09-29T16:18:59Z",
+    "content": "Oil majors Rosneft and Saudi Aramco are unlikely to bid in the privatisation of Indian refiner Bharat Petroleum Corp, sources familiar with the matter said, as low oil prices and weak fuel demand cur… [+4277 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Indian Express"
+    },
+    "author": "Express News Service",
+    "title": "Drugs case: NCB opposes bail pleas of Rhea, Showik, says ‘crime worse than murder or culpable homicide’ - The Indian Express",
+    "description": "The bail pleas by Rhea, Showik, and three others including Samuel Miranda, Abdel Basit Parihar and Dipesh Sawant, were rejected by the special NDPS Court on September 11.",
+    "url": "https://indianexpress.com/article/cities/mumbai/bollywood-drugs-case-rhea-chakraborty-showik-bail-plea-ncb-6634766/",
+    "urlToImage": "https://images.indianexpress.com/2020/09/rhea-chakraborty-3-1.jpg",
+    "publishedAt": "2020-09-29T14:30:18Z",
+    "content": "Bollywood actor Rhea Chakraborty after being arrested by the Narcotics Control Bureau (NCB) in connection with drugs-related allegations in the late actor Sushant Singh Rajput's death case, from NCB … [+2930 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Abplive.com"
+    },
+    "author": "ABP News Bureau",
+    "title": "Drugs Case: Bombay HC Reserves Order On Bail Pleas Of Rhea Chakraborty, Showik & Others - ABP Live",
+    "description": "Sushant Singh Rajput case: The NCB had opposed Rhea Chakraborty's bail stating that the actress is an active member of a drug syndicate connected with high society personalities and drug suppliers.",
+    "url": "https://news.abplive.com/entertainment/movies/sushant-singh-rajput-death-case-bombay-high-court-reserves-order-on-rhea-chakraborty-showik-chakraborty-bail-plea-1351023",
+    "urlToImage": "https://static.abplive.com/wp-content/uploads/2020/09/05232641/Showik-Chakraborty-Rhea-Chakraborty.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
+    "publishedAt": "2020-09-29T13:52:08Z",
+    "content": "New Delhi: The Bombay High Court on Tuesday (September 29) reserved the order on the bail pleas of Rhea Chakraborty, Showik Chakraborty, Sushant Singh Rajput's house help Dipesh Sawant, actor's house… [+1833 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Livemint"
+    },
+    "author": "Aparna Banerjea",
+    "title": "'Unfortunate, exaggerated': Govt on Amnesty International's 'witch-hunt' claims - Mint",
+    "description": "Amnesty International had received permission under the FCRA only once and that too twenty years ago, govt states.Since then Amnesty, despite its repeated applications, has been denied FCRA approval by successive governments since as per law it is not eligibl…",
+    "url": "https://www.livemint.com/companies/news/unfortunate-exaggerated-govt-on-amnesty-international-s-witch-hunt-claims-11601385566097.html",
+    "urlToImage": "https://images.livemint.com/img/2020/09/29/600x338/3e3eaec6b8cf4bc7bc9f4e651313c0a6-3e3eaec6b8cf4bc7bc9f4e651313c0a6-1_1601359959543_1601359975878_1601386472767.jpg",
+    "publishedAt": "2020-09-29T13:36:04Z",
+    "content": "The Indian government on Tuesday denied Amnesty International's statement of halting all its activities in India due to freezing of its accounts and claiming that the company is being subjected to an… [+3768 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "India.com"
+    },
+    "author": "Sidharth MP",
+    "title": "India's first multi-wavelength mission Astrosat completes 5 years, scientific data used by 43 countries - Zee News",
+    "description": "The Indian Space Research Organization (ISRO) on Monday (September 28, 2020) marked five years of the launch of AstroSat, India’s first multi-wavelength mission.",
+    "url": "https://zeenews.india.com/india/india-s-first-multi-wavelength-mission-astrosat-completes-5-years-scientific-data-used-by-43-countries-2313359.html",
+    "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2020/09/29/889288-pjimage-2.jpg",
+    "publishedAt": "2020-09-29T13:10:25Z",
+    "content": "New Delhi: The Indian Space Research Organization (ISRO) on Monday (September 28, 2020) marked five years of the launch of AstroSat, Indias first multi-wavelength mission. The satellite which was lau… [+3396 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Mid-day"
+    },
+    "author": "IANS",
+    "title": "Covid-19 may deteriorate men's testosterone levels: Study - Mid-day",
+    "description": "The study revealed that as mens testosterone level at baseline decreases the probability for them to be in the intensive care unit ICU significantly increase",
+    "url": "https://www.mid-day.com/articles/covid-19-may-deteriorate-men-s-testosterone-levels-study/23015283",
+    "urlToImage": "https://images.mid-day.com/images/2020/sep/Serum-vaccine-Pune_d.jpg",
+    "publishedAt": "2020-09-29T09:25:00Z",
+    "content": "Published: 29 September, 2020 14:55 IST | \r\n IANS |\r\n Mumbai\r\nIn a major study on patients hospitalised due to Covid-19, the researchers found that the disease might deteriorate men's testosterone le… [+3609 chars]"
   },
   {
     "source": {
@@ -128,203 +453,8 @@ export const mockResponse = [
     "description": "The global death toll from Covid-19 rose past 1 million on Tuesday, a bleak milestone for the world battling with the pandemic that has devastated the global economy, overloaded health systems and changed the way people live.",
     "url": "https://www.hindustantimes.com/india-news/where-does-india-stand-in-global-tally-here-s-a-look-at-the-5-most-affected-countries-with-highest-number-of-covid-19-cases/story-9wof1meX7Sy5tHMrXA4nLK.html",
     "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/29/Pictures/chandigarh-coronavirus-chandigarh-hindustan-extended-chandigarh-nationwide_df25cf40-020b-11eb-a0ae-05799bfe6215.jpg",
-    "publishedAt": "2020-09-29T04:55:14Z",
+    "publishedAt": "2020-09-29T05:32:00Z",
     "content": "With more than 61 lakh (or 6.1 million) coronavirus cases, India is now the second worst-affected country by Covid-19 after United States. The overall number of global coronavirus cases has surpassed… [+1798 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": null,
-    "title": "Bollywood drug nexus: Sara Ali Khan reportedly tells NCB Sushant Singh Rajput wasn't faithful to her during their short relationship - Times of India",
-    "description": "Sara Ali Khan reportedly told the Narcotics Control Bureau during questioning on Sep 26 that late actor Sushant Singh Rajput was not faithful to her during their short relationship, reports suggest. According to reports, Sara opened up about her relationship …",
-    "url": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/bollywood-drug-nexus-sara-ali-khan-reportedly-tells-ncb-sushant-singh-rajput-wasnt-faithful-to-her-during-their-short-relationship/videoshow/78377712.cms",
-    "urlToImage": "https://timesofindia.indiatimes.com/photo/78377712/size-383559/78377712.jpg",
-    "publishedAt": "2020-09-29T04:44:10Z",
-    "content": "Sara Ali Khan reportedly told the Narcotics Control Bureau during questioning on Sep 26 that late actor Sushant Singh Rajput was not faithful to her during their short relationship, reports suggest. … [+662 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "TIMESOFINDIA.COM",
-    "title": "'No organic poison found in Sushant Singh Rajput’s body,' sources reveal details of AIIMS Forensic report - Times of India",
-    "description": "Sushant Singh Rajput’s post-mortem and viscera reports were re-analyzed by a team from All India Institute Of Medic",
-    "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/no-organic-poison-found-in-sushant-singh-rajputs-body-sources-reveal-details-of-aiims-forensic-report/articleshow/78377686.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-78377686,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-598917/78377686.jpg",
-    "publishedAt": "2020-09-29T04:41:00Z",
-    "content": null
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Indian Express"
-    },
-    "author": "Express Web Desk",
-    "title": "Hathras gangrape: Dalit woman succumbs to injuries in Delhi hospital - The Indian Express",
-    "description": "Four upper caste men of the woman's village in Hathras district, who were charged with gangrape and attempt to murder, apart from charges under the SC/ST (Prevention of Atrocities) Act, have been arrested.",
-    "url": "https://indianexpress.com/article/india/hathras-dalit-gangrape-victim-dies-6629876/",
-    "urlToImage": "https://images.indianexpress.com/2020/09/express-image-6.jpg",
-    "publishedAt": "2020-09-29T04:32:59Z",
-    "content": "The police said the victim had been dragged into a field and gangraped. She had also been strangled with her dupatta.A 19-year-old Dalit woman from Uttar Pradesh succumbed to injuries at a hospital i… [+1944 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "NDTV News"
-    },
-    "author": null,
-    "title": "Rhea Chakraborty's Bail Hearing Today, Accused Of \"Most Serious Crime\" - NDTV",
-    "description": "The bail requests of actor Rhea Chakraborty and her brother Showik, who have been in jail for nearly three weeks on drugs-related charges linked to the Sushant Singh Rajput investigation, will be heard by the Bombay High Court today. Five more accused, includ…",
-    "url": "https://www.ndtv.com/india-news/sushant-singh-rajput-case-bombay-high-court-to-hear-rhea-chakraborty-brother-showiks-bail-request-today-2302464",
-    "urlToImage": "https://c.ndtvimg.com/2020-09/vsam5eog_rhea-chakraborty-shifted-to-byculla-jail-september-2020-pti-_650x400_09_September_20.jpg",
-    "publishedAt": "2020-09-29T04:31:00Z",
-    "content": "Rhea Chakraborty, who dated movie star Sushant Singh Rajput, was arrested on September 9.\r\nNew Delhi: The bail requests of actor Rhea Chakraborty and her brother Showik, who have been in jail for nea… [+2759 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "NDTV News"
-    },
-    "author": "Asian News International",
-    "title": "IPL 2020, RCB vs MI: Rohit Sharma Explains Why Ishan Kishan Didn't Come Out To Bat In Super Over - NDTV Sports",
-    "description": "Despite scoring a brilliant 99 off just 58 balls, Ishan Kishan, who was dismissed in the last over, didn't walk out to bat in the Super Over.",
-    "url": "https://sports.ndtv.com/ipl-2020/rcb-vs-mi-rohit-sharma-explains-why-ishan-kishan-didnt-come-out-to-bat-in-super-over-2302451",
-    "urlToImage": "https://c.ndtvimg.com/2020-09/mgcos71s_ishan-kishan-vs-rcb-bcciipl_625x300_29_September_20.jpg",
-    "publishedAt": "2020-09-29T03:54:22Z",
-    "content": "Mumbai Indians skipper Rohit Sharma said that Ishan Kishan was not sent to bat in the Super Over because the latter was \"drained out\". The Indian Premier League (IPL) 2020 clash between Royal Challen… [+1337 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "NDTV News"
-    },
-    "author": null,
-    "title": "\"Jobs To 10 Lakh Murderers\": Devendra Fadnavis's Dig At Tejashwi Yadav - NDTV",
-    "description": "Former Maharashtra Chief Minister and BJP's Bihar election in-charge Devendra Fadnavis on Monday took a jibe at Tejashwi Yadav's promise of 10 lakh government jobs and said that the RJD leader will buy 10 lakh country-made firearms and distribute them among h…",
-    "url": "https://www.ndtv.com/india-news/bihar-elections-2020-jobs-to-10-lakh-murderers-devendra-fadnaviss-dig-at-tejashwi-yadav-2302443",
-    "urlToImage": "https://c.ndtvimg.com/2020-09/fqc70r8c_devendra-fadnavis_625x300_29_September_20.jpg",
-    "publishedAt": "2020-09-29T03:40:18Z",
-    "content": "\"Tejashwi Yadav will distribute 10 lakh pistols among his supporters,\" Devendra Fadnavis said\r\nPatna: Former Maharashtra Chief Minister and BJP's Bihar election in-charge Devendra Fadnavis on Monday … [+2166 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Livemint"
-    },
-    "author": "Surajit Dasgupta",
-    "title": "Gold prices today struggle, down ₹6,000 from record highs; silver higher - Mint",
-    "description": "Gold prices had seen a sharp fall last week as part of sell-off seen across commodities.Silver had also fallen sharply",
-    "url": "https://www.livemint.com/market/commodities/gold-prices-today-struggle-down-rs-6-000-from-record-highs-silver-rates-11601348999533.html",
-    "urlToImage": "https://images.livemint.com/img/2020/09/29/600x338/2020-08-07T131957Z_88282087_RC219I9NN9VQ_RTRMADP_3_ASIA-GOLD-DEMAND_1601349153464_1601349204315.JPG",
-    "publishedAt": "2020-09-29T03:39:50Z",
-    "content": "Gold prices struggled today in Indian markets after posting strong gains in the previous session. On MCX, October gold futures rose 0.1% to 50,190 per 10 gram while silver futures gained 0.5% to 60,7… [+2434 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Livemint"
-    },
-    "author": "ANI",
-    "title": "New insights into the origin of diamonds in meteorites - Mint",
-    "description": "These diamonds most likely formed by rapid shock transformation from graphite during one or more major impacts into the ureilite parent asteroid in the early solar system",
-    "url": "https://www.livemint.com/science/news/new-insights-into-the-origin-of-diamonds-in-meteorites-11601349532713.html",
-    "urlToImage": "https://images.livemint.com/img/2020/09/29/600x338/2020-08-14T090852Z_168937663_RC2LDI9H6H62_RTRMADP_3_ALROSA-RESULTS_1601349869378_1601349880168.JPG",
-    "publishedAt": "2020-09-29T03:25:05Z",
-    "content": "Washington: Scientists have offered new insights into the origin of diamonds in a group of stony meteorites called ureilites.These diamonds most likely formed by rapid shock transformation from graph… [+3396 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "NDTV News"
-    },
-    "author": null,
-    "title": "Texas On Alert After Brain-Eating Amoeba Kills Boy, 6 - NDTV",
-    "description": "The governor of Texas has issued a disaster declaration after the death of six-year-old boy infected with a brain-eating amoeba that was later found in his community's water supply.",
-    "url": "https://www.ndtv.com/world-news/texas-on-alert-after-brain-eating-amoeba-kills-boy-6-2302437",
-    "urlToImage": "https://c.ndtvimg.com/2020-09/p66hm678_braineating-amoeba-generic_625x300_29_September_20.jpg",
-    "publishedAt": "2020-09-29T03:21:01Z",
-    "content": "Testing revealed traces of the amoeba in the tap of the garden hose at the boy's house.\r\nHouston, United States: The governor of Texas has issued a disaster declaration after the death of six-year-ol… [+1792 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Livemint"
-    },
-    "author": "Bloomberg",
-    "title": "Donald Trump paying $750 in income tax shows why he is a billionaire - Mint",
-    "description": "Trump has long been required to disclose a road map to his assets and liabilities.His biggest financial vulnerabilities remain his hotel in Washington, where the pandemic has slowed business, and Doral, a sprawling golf resort in Florida",
-    "url": "https://www.livemint.com/news/world/donald-trump-paying-750-in-income-tax-shows-why-he-is-a-billionaire-11601348002438.html",
-    "urlToImage": "https://images.livemint.com/img/2020/09/29/600x338/2020-09-29T020140Z_1_LYNXMPEG8S03M_RTROPTP_3_HEALTH-CORONAVIRUS-USA-TESTING_1601348379341_1601348403375.JPG",
-    "publishedAt": "2020-09-29T03:00:43Z",
-    "content": "A New York Times story based on Donald Trumps long-sought-after tax data shows he avoided paying income taxes for most of the past two decades and paid only $750 the year he was elected president.Tha… [+5916 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Hindustan Times"
-    },
-    "author": "HT Entertainment Desk",
-    "title": "Sona Mohapatra laughs off Rangoli Chandel’s ‘junk’ remark, takes a dig at nepotism: ‘My sisters don’t... - Hindustan Times",
-    "description": "Sona Mohapatra has responded to Kangana Ranaut’s sister Rangoli Chandel calling her comments ‘below average junk’. The singer took a dig at nepotism and replied how her sisters don’t speak for her or troll for her. See her response here.",
-    "url": "https://www.hindustantimes.com/bollywood/sona-mohapatra-laughs-off-rangoli-chandel-s-junk-remark-takes-a-dig-at-nepotism-my-sisters-don-t-speak-for-me/story-FyBiOJ7rjPYGBJXYoZ2S9H.html",
-    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/29/Pictures/_4ce8c1fc-01fa-11eb-a0ae-05799bfe6215.jpg",
-    "publishedAt": "2020-09-29T02:46:00Z",
-    "content": "Actor Kangana Ranaut’s sister Rangoli Chandel and singer Sona Mohapatra are now caught in a social media tiff. After Sona mentioned how Kangana had blocked her on Twitter, Rangoli had taken to Instag… [+2679 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Hindustan Times"
-    },
-    "author": "Abhishek Paul",
-    "title": "IPL 2020: Nicholas Pooran takes flight, leaves wheelchair days behind - Hindustan Times",
-    "description": "IPL 2020: On Sunday, as Nicholas Pooran pulled off a jaw-dropping save near the boundary, the West Indies batsman showed how he’s come a long way since a near career-ending injury in 2015.",
-    "url": "https://www.hindustantimes.com/cricket/ipl-2020-nicholas-pooran-takes-flight-leaves-wheelchair-days-behind/story-Icq0t7RlbxmqFIZJrRYg4I.html",
-    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/29/Pictures/dream-11-ipl-2020-m9-rr-kxip_71cdfb5e-01fa-11eb-8ced-aae354dd8a08.JPG",
-    "publishedAt": "2020-09-29T02:28:17Z",
-    "content": "Five years ago, Nicholas Pooran was unsure whether he would ever walk again. Cut to Sunday, the 24-year-old Trinidadian literally flew while making an unbelievable save for Kings XI Punjab against Ra… [+4081 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "DNA India"
-    },
-    "author": "DNA Web Team",
-    "title": "World Heart Day 2020: 5 lifestyle tips for a healthy heart - DNA India",
-    "description": "With a paradigm shift in the way life is in these unprecedented times, it is important that we don't stress and try to stay calm and composed while dealing with the pandemic and putting our best foot forward in managing work and personal life balance.",
-    "url": "https://www.dnaindia.com/lifestyle/report-world-heart-day-2020-5-lifestyle-tips-for-a-healthy-heart-2846064",
-    "urlToImage": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/09/29/928014-heart.jpg",
-    "publishedAt": "2020-09-29T02:19:32Z",
-    "content": null
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Hindustan Times"
-    },
-    "author": "Press Trust of India | Posted by Karan Manral",
-    "title": "India’s AstroSat completes 5 years of mapping stars, galaxies in space - Hindustan Times",
-    "description": "AstroSat, India’s first multi-wavelength astronomical observatory, was launched by the Indian Space Research Organisation (ISRO) on September 28, 2015. It has carried out 1,166 observations of 800 unique celestial sources proposed by scientists both from Indi…",
-    "url": "https://www.hindustantimes.com/india-news/india-s-astrosat-completes-5-years-of-mapping-stars-galaxies-in-space/story-N0cUUDVVcFpFNcUgdLpRON.html",
-    "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/29/Pictures/_629d5978-01f9-11eb-a0ae-05799bfe6215.png",
-    "publishedAt": "2020-09-29T02:17:42Z",
-    "content": "AstroSat, India’s first multi-wavelength astronomical observatory, on Monday completed five years of imaging celestial objects in space.\r\nLaunched by the Indian Space Research Organisation (ISRO) on … [+2175 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Moneycontrol"
-    },
-    "author": null,
-    "title": "What changed for the market while you were sleeping? Top 10 things to know - Moneycontrol.com",
-    "description": "Trends on SGX Nifty indicate a positive opening for the index in India with a 8 points gain.",
-    "url": "https://www.moneycontrol.com/news/business/markets/what-changed-for-the-market-while-you-were-sleeping-top-10-things-to-know-298-5896221.html",
-    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2018/12/SENSEX_NSE_nifty_BSE_Stock-market-770x433.jpg",
-    "publishedAt": "2020-09-29T02:16:00Z",
-    "content": "The Indian stock market is expected to open flat as trends on SGX Nifty indicate a flat to positive opening for the index with a 8 points gain.\r\nThe BSE Sensex climbed 592.97 points or 1.59 percent t… [+6593 chars]"
   },
   {
     "source": {
@@ -336,164 +466,34 @@ export const mockResponse = [
     "description": "If he beats Donald Trump, Joe Biden will need to decide whether to scrap, keep or escalate the billions in tariffs levied against Chinese imports, and whether to stick to or renegotiate the partial trade deal Trump signed in January.",
     "url": "https://www.hindustantimes.com/world-news/joe-biden-set-to-carve-own-brand-of-tough-on-china-policy-if-elected/story-QeD6DtMorFKP6DtcsDQgrJ.html",
     "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/09/29/Pictures/president-delivers-supreme-wilmington-democratic-presidential-candidate_8cdcb9f0-01f8-11eb-b32f-32d5f7e2c720.jpg",
-    "publishedAt": "2020-09-29T02:13:08Z",
+    "publishedAt": "2020-09-29T02:10:00Z",
     "content": "Democratic presidential candidate Joe Biden is preparing to face tough questions in Tuesday’s debate on how he would approach China if he wins the White House in November.\r\nHis team is privately ackn… [+7201 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Hindustan Times"
+      "name": "NDTV News"
     },
-    "author": "Reuters",
-    "title": "Microsoft 365 suffers major outage, multiple services like Outlook, Teams stops working for users - HT Tech",
-    "description": "Microsoft rolls back change that caused the outage and stopped Microsoft 365 services from working, said they are looking into exactly what caused it. Some users are still affected by the outage.",
-    "url": "https://tech.hindustantimes.com/tech/news/microsoft-365-suffers-major-outage-multiple-services-like-outlook-teams-stops-working-for-users-71601345025106.html",
-    "urlToImage": "https://images.hindustantimes.com/tech/img/2020/09/29/600x338/2020-09-28T150818Z_1_LYNXMPEG8R1KQ_RTROPTP_3_LINKEDIN-M-A-MICROSOFT_1601346517943_1601346531987.JPG",
-    "publishedAt": "2020-09-29T02:03:44Z",
-    "content": "Roughly about four hours ago, Microsoft announced on Twitter that a recent change it had introduced lead to a major outage that affected users' access to multiple Microsoft 365 services, including Ou… [+3358 chars]"
+    "author": "Santosh Rao",
+    "title": "IPL 2020: Gautam Gambhir Scoffs At Shashi Tharoor's Sanju Samson \"Next MS Dhoni\" Tweet - NDTV Sports",
+    "description": "IPL 2020, RR vs KXIP: Rajasthan Royals' Sanju Samson continued to get accolades from Shashi Tharoor after his superb show against Kings XI Punjab, but Gautam Gambhir came up with a retort.",
+    "url": "https://sports.ndtv.com/ipl-2020/ipl-2020-rr-vs-kxip-gautam-gambhir-scoffs-at-shashi-tharoors-sanju-samson-next-ms-dhoni-tweet-2302110",
+    "urlToImage": "https://c.ndtvimg.com/2020-09/7416h1ko_sanju-samson-vs-kxip-bcciipl_625x300_28_September_20.jpg",
+    "publishedAt": "2020-09-28T09:09:43Z",
+    "content": "Sanju Samson starred for Rajasthan Royals as they beat Kings XI Punjab in a thrilling IPL 2020 encounter at the Sharjah Cricket Stadium on Sunday night. The stylish wicketkeeper-batsman blasted 85 of… [+2585 chars]"
   },
   {
     "source": {
       "id": null,
-      "name": "Business Standard"
+      "name": "SportsCafe"
     },
-    "author": "Anirban Nag | Bloomberg",
-    "title": "Govt failure to appoint MPC members injects more uncertainty in the economy - Business Standard",
-    "description": "The Reserve Bank of India deferred its three-day interest-rate meeting due to start Tuesday, without giving any reasons or a new date for its policy decision",
-    "url": "https://www.business-standard.com/article/finance/govt-failure-to-appoint-mpc-members-injects-more-uncertainty-in-the-economy-120092900152_1.html",
-    "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/29/full/1601347022-1168.jpg",
-    "publishedAt": "2020-09-29T02:02:00Z",
-    "content": "India’s government injected more uncertainty into the economy this week, failing to act in time to appoint members to the central bank’s panel that decides interest rates.\r\nThe Reserve Bank of India … [+4837 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "The Quint"
-    },
-    "author": "The Quint",
-    "title": "What is MSP? Why are Farmers Protesting Over It & Who Needs It? - The Quint",
-    "description": "Everything you need to know about MSP, from its formula to who sets it and what its legal basis is. The data on which farmers  benefit from the MSP system also explains why the protests against the Farm Bills are massive in Punjab & Haryana.",
-    "url": "https://www.thequint.com/explainers/what-is-msp-which-states-benefit-from-procurement-legal-basis-and-protests",
-    "urlToImage": "https://images.thequint.com/thequint%2F2020-09%2F19e87217-67f1-4cd9-b435-8ab26419714c%2Fmsp.jpg?w=1200&auto=format%2Ccompress&ogImage=true",
-    "publishedAt": "2020-09-29T01:35:29Z",
-    "content": "The 2015 Shanta Kumar Committee found that only around 6 percent of farmers actually sell their crops at MSP rates. This is because procurement at MSP by the government does not happen in a uniform m… [+1711 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "AFP",
-    "title": "26 more Armenian rebels killed in Karabakh fighting - Times of India",
-    "description": "Rest of World News: YEREVAN: Twenty-six separatist fighters died in clashes with Azerbaijani troops late on Monday in Azerbaijan's breakaway Nagorny Karabakh region, the .",
-    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/26-more-armenian-rebels-killed-in-karabakh-fighting/articleshow/78374986.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-78374985,width-1070,height-580,imgsize-31615,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-    "publishedAt": "2020-09-28T21:23:00Z",
-    "content": null
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "XDA Developers"
-    },
-    "author": "Ronald Comstock",
-    "title": "Best Android Apps in 2020 - XDA Developers",
-    "description": "Getting started with Android? There's millions of apps in the Play Store, but here's the best Android apps we recommend you download!",
-    "url": "https://www.xda-developers.com/best-android-apps/",
-    "urlToImage": "https://www.xda-developers.com/files/2020/08/Google-Play-Store-In-App-Review-API.jpg",
-    "publishedAt": "2020-09-28T20:47:00Z",
-    "content": "Android apps continue to get more and more powerful in 2020 as they take advantage of the new hardware we see in modern smartphones. Some of the best apps are totally free to use, while others let yo… [+16809 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Deccan Herald"
-    },
-    "author": "Suraksha P",
-    "title": "Bengaluru sees more heart attacks as Covid-19 pandemic bites - Deccan Herald",
-    "description": "Doctors have reported a 30% surge in heart attack cases in Bengaluru in the last two months, possibly related to factors like mental stress, economic difficulties, sedentary lifestyle, bad diet and other challenges imposed by the lockdown. Many of the patient…",
-    "url": "https://www.deccanherald.com/city/top-bengaluru-stories/bengaluru-sees-more-heart-attacks-as-covid-19-pandemic-bites-894496.html",
-    "urlToImage": "https://www.deccanherald.com/sites/dh/files/articleimages/2020/09/29/heart-attack-istock-894496-1601321088.jpg",
-    "publishedAt": "2020-09-28T19:16:01Z",
-    "content": "Doctors have reported a 30% surge in heart attack cases in Bengaluru in the last two months, possibly related to factors like mental stress, economic difficulties, sedentary lifestyle, bad diet and o… [+2267 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "WION"
-    },
-    "author": "WION Web Team",
-    "title": "India: ICMR warns of danger posed by another virus from China - Cat Que Virus - WION",
-    "description": "The Indian Council of Medical Research (ICMR) has warned of the danger posed by another virus found in China  - the Cat Que Virus.",
-    "url": "https://www.wionews.com/india-news/india-icmr-warns-of-danger-posed-by-another-virus-from-china-cat-que-virus-331014",
-    "urlToImage": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/08/20/155550-mosquito.jpg",
-    "publishedAt": "2020-09-28T17:05:25Z",
-    "content": "The Indian Council of Medical Research (ICMR) has warned of the danger posed by another virus found in China  - the Cat Que Virus. \r\nAccording to the ICMR, the virus has potential to spread diseases … [+1222 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Moneycontrol"
-    },
-    "author": null,
-    "title": "Shashi Tharoor calls this batsman 'next MS Dhoni': Gautam Gambhir, Sreesanth don’t agree - Moneycontrol.com",
-    "description": "Praising Rajasthan Royals player Sanju Samson for his stellar performance, Thiruvananthapuram MP Shashi Tharoor had said: “I have known Sanju Samson for a decade. Had told him when he was 14 that he would one day be the next MS Dhoni.”",
-    "url": "https://www.moneycontrol.com/news/eye-on-india/videos/shashi-tharoor-calls-this-batsman-next-ms-dhoni-gautam-gambhir-sreesanth-dont-agree-5894621.html",
-    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2018/04/Sanju-Samson-770x433.jpg",
-    "publishedAt": "2020-09-28T15:43:00Z",
-    "content": "Congress parliamentarian Shashi Tharoor was mighty impressed with Kerala batsman Sanju Samsons performance in the Indian premiere League (IPL) match played against Kings XI Punjab on September 27. Pr… [+1372 chars]"
-  },
-  {
-    "source": {
-      "id": "espn-cric-info",
-      "name": "ESPN Cric Info"
-    },
-    "author": "Hemant Brar",
-    "title": "Match Preview - Delhi Capitals vs Sunrisers Hyderabad, Indian Premier League 2020 2020, 11th Match - ESPNcricinfo",
-    "description": "Sunrisers will have to solve their middle-order problems quickly to get their campaign on track",
-    "url": "https://www.espncricinfo.com/series/8048/preview/1216532/delhi-capitals-vs-sunrisers-hyderabad-11th-match-indian-premier-league-2020-21",
-    "urlToImage": "https://img1.hscicdn.com/image/upload/f_auto/esci/i/cricket/cricinfo/1233718_1296x729.jpg",
-    "publishedAt": "2020-09-28T13:07:30Z",
-    "content": "Big picture\r\nEven before the start of IPL 2020, it seemed the lack of experience in the middle order could be a headache for the Sunrisers Hyderabad. Two games into the season, things are not looking… [+4852 chars]"
-  },
-  {
-    "source": {
-      "id": "the-times-of-india",
-      "name": "The Times of India"
-    },
-    "author": "PTI",
-    "title": "Pakistan's opposition leader Shahbaz Sharif arrested in money laundering case - Times of India",
-    "description": "Pakistan News: Pakistan's leader of the opposition and PML-N President Shahbaz Sharif was arrested on Monday after the Lahore High Court rejected his bail plea in a",
-    "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistans-opposition-leader-shahbaz-sharif-arrested-in-money-laundering-case/articleshow/78365228.cms",
-    "urlToImage": "https://static.toiimg.com/thumb/msid-78365212,width-1070,height-580,imgsize-324151,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-    "publishedAt": "2020-09-28T11:54:00Z",
-    "content": null
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "Tech Times"
-    },
-    "author": "Urian B.",
-    "title": "[Look] Here's How SpaceX Reusable Rockets Perfectly Land Safely - Tech Times",
-    "description": "A new video shows exactly how amazing SpaceX's reusable rockets as they land exactly where they should land.",
-    "url": "https://www.techtimes.com/articles/252906/20200928/look-heres-how-spacex-reusable-rockets-perfectly-land-safely.htm",
-    "urlToImage": "https://1734811051.rsc.cdn77.org/data/images/full/372600/look-heres-how-spacex-reusable-rockets-perfectly-land-safely.png",
-    "publishedAt": "2020-09-28T08:13:35Z",
-    "content": "The business model that SpaceX is built on is being able to manufacture reusable rockets in house to double the savings of a single rocket. Elon Musk originally designed SpaceX to deal with this prob… [+3080 chars]"
-  },
-  {
-    "source": {
-      "id": null,
-      "name": "News18"
-    },
-    "author": "Nitisha Kashyap",
-    "title": "Tractor Set on Fire Near Delhi's India Gate to Protest Farm Bills in Major Security Breach - News18",
-    "description": "All senior officials of the district have rushed to Delhi's Mansingh Road where a tractor was set on fire.",
-    "url": "https://www.news18.com/news/india/tractor-set-on-fire-near-delhis-india-gate-to-protest-farm-bills-in-major-security-breach-2914781.html",
-    "urlToImage": "https://images.news18.com/ibnlive/uploads/2020/09/1601264897_india-gate.jpg",
-    "publishedAt": "2020-09-28T03:52:00Z",
-    "content": "In a major security breach, a group of people set a tractor on fire near Delhi's India Gate on Monday. The incident took place at 7:42am. According to police, a group of 15-20 people had reached Mans… [+1767 chars]"
+    "author": "SportsCafe Desk",
+    "title": "IPL 2020 | Samson won’t be next Dhoni, will create his own identity, states Gautam Gambhir - SportsCafe",
+    "description": "Gautam Gambhir has quashed suggestions of Sanju Samson being the ‘next MS Dhoni’ and has stated that the youngster will create an identity for himself in world cricket. On Sunday, Samson bagged his second consecutive MOTM award in IPL 2020 after blasting a 42…",
+    "url": "https://sportscafe.in/cricket/articles/2020/sep/28/ipl-2020-samson-wont-be-next-dhoni-will-create-his-own-identity-states-gautam-gambhir",
+    "urlToImage": "https://cdn-images.spcafe.in/img/es3-cfill-w800-h418/articles/Cricket_1/sanju_samson_reverse_sweep_vs_kxip_iplt20.jpg",
+    "publishedAt": "2020-09-28T07:09:22Z",
+    "content": "Gautam Gambhir has quashed suggestions of Sanju Samson being the next MS Dhoni and has stated that the youngster will create an identity for himself in world cricket. On Sunday, Samson bagged his sec… [+2327 chars]"
   },
   {
     "source": {
@@ -501,24 +501,11 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "Covid updates: Death toll from global pandemic crosses one million",
-    "description": "As infections keep rising, the UN boss calls it a \"mind-numbing\" figure and \"an agonising milestone\".",
-    "url": "http://www.bbc.co.uk/news/live/world-54336494",
-    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.3/bbc_news_logo.png",
-    "publishedAt": "2020-09-29T06:07:29.4187504Z",
-    "content": "Many countries are seeing a surge in cases right now.\r\nFor some this is a second surge, after an initial peak in spring. For others, cases have been rising steadily through the year.\r\nIn Europe, incl… [+486 chars]"
-  },
-  {
-    "source": {
-      "id": "bbc-news",
-      "name": "BBC News"
-    },
-    "author": "BBC News",
-    "title": "Amnesty International to halt India operations",
-    "description": "The human rights watchdog tells the BBC that the move comes due to reprisal from the government.",
-    "url": "http://www.bbc.co.uk/news/world-asia-india-54277329",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13BAA/production/_114601808_gettyimages-1147660221.jpg",
-    "publishedAt": "2020-09-29T05:22:20.0051429Z",
+    "title": "Brazil judge stymies plan to revoke mangrove protection",
+    "description": "Environmentalists feared fragile coastal ecosystems would be destroyed by redevelopment.",
+    "url": "http://www.bbc.co.uk/news/world-latin-america-54350180",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15765/production/_114690978_gettyimages-1179393738.jpg",
+    "publishedAt": "2020-09-30T07:22:40.0443153Z",
     "content": null
   },
   {
@@ -527,24 +514,11 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "Teacher gets death penalty for poisoning students",
-    "description": "A Chinese court said she put poison into the porridge of her colleague's students in an act of revenge.",
-    "url": "http://www.bbc.co.uk/news/world-asia-china-54335841",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/66F4/production/_106265362_chinajiaozuo976.png",
-    "publishedAt": "2020-09-29T03:58:54Z",
-    "content": "A Chinese nursery teacher has been sentenced to death for poisoning 25 children and killing one, state media reported.\r\nWang Yun was arrested last year after children at a kindergarten in Jiaozuo cit… [+1490 chars]"
-  },
-  {
-    "source": {
-      "id": "bbc-news",
-      "name": "BBC News"
-    },
-    "author": "BBC News",
-    "title": "George Pell: Cardinal to return to Rome for first time since acquittal",
-    "description": "The ex-Vatican treasurer is to return to Rome for the first time since being acquitted of sexual abuse.",
-    "url": "http://www.bbc.co.uk/news/world-australia-54334897",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7127/production/_114676982_gettyimages-953254092.jpg",
-    "publishedAt": "2020-09-29T02:37:19.1405745Z",
+    "title": "Babri mosque: India court delivers key verdict on mosque demolition",
+    "description": "Former deputy PM LK Advani, 92, was among those charged over the 1992 destruction of the Babri mosque.",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-54318515",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12D85/production/_95698177_gettyimages-93316687.jpg",
+    "publishedAt": "2020-09-30T07:22:23.860842Z",
     "content": null
   },
   {
@@ -553,12 +527,12 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "Do voters care about Trump taxes?",
-    "description": "'I'm not surprised,\" says one Trump critic. But a supporter says he used to do the same thing as the president.",
-    "url": "http://www.bbc.co.uk/news/election-us-2020-54330439",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0A61/production/_114675620_tyrone.mansfield.jpg",
-    "publishedAt": "2020-09-29T01:20:50Z",
-    "content": "The revelations about President Donald Trump's taxes have been described as a jolt to the US election campaign that could reshape the race. \r\nBut what do voters think?\r\nWe asked members of our voters… [+5883 chars]"
+    "title": "China clamps down on climbing 'wild Great Wall'",
+    "description": "Tens of thousands of people are expected to visit the Great Wall as Golden Week approaches.",
+    "url": "http://www.bbc.co.uk/news/world-asia-china-54350842",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/117C3/production/_114691617_img-0956.jpg",
+    "publishedAt": "2020-09-30T06:06:27Z",
+    "content": "Image caption\r\n The Great Wall stretches for thousands of kilometres, and many parts are restored\r\nAs China's busiest holiday season approaches, Beijing has warned that it will punish those who climb… [+2050 chars]"
   },
   {
     "source": {
@@ -566,12 +540,12 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "As death toll passes 1m, where has been hit hardest?",
-    "description": "The grim milestone is reached with the virus spreading fast in India and picking up again in Europe.",
-    "url": "http://www.bbc.co.uk/news/world-51235105",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F5C5/production/_114671926_063468104epasm.jpg",
-    "publishedAt": "2020-09-29T01:07:34Z",
-    "content": "Image copyrightEPA\r\nCoronavirus has now contributed to the deaths of one million people worldwide.\r\nThe report of the millionth death arrived just short of ten months after the first confirmed death,… [+6168 chars]"
+    "title": "Pandemic fills up Australian airline storage",
+    "description": "Analysts say it's an indication of more trouble ahead for the struggling airline industry",
+    "url": "http://www.bbc.co.uk/news/business-54335931",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13FD5/production/_114677818_gettyimages-1226321220.jpg",
+    "publishedAt": "2020-09-30T03:27:00Z",
+    "content": "Image copyrightGetty Images\r\nAn aircraft storage facility in Central Australia is now so full that its owners have had to seek out more space.\r\nMany carriers haven't had enough passengers to justify … [+3430 chars]"
   },
   {
     "source": {
@@ -579,24 +553,11 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "BTS members to become multi-millionaires",
-    "description": "The South Korean K-pop group will become multi-millionaires after their label Big Hit goes public.",
-    "url": "http://www.bbc.co.uk/news/business-54334876",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10FBF/production/_114676596_bts2.jpg",
-    "publishedAt": "2020-09-28T23:48:35Z",
-    "content": "Image copyrightReutersImage caption\r\n BTS perform at the MTV Video Music Awards on 31 August in New York\r\nAll seven members of South Korean K-pop group BTS are set to become multi-millionaires, when … [+2545 chars]"
-  },
-  {
-    "source": {
-      "id": "bbc-news",
-      "name": "BBC News"
-    },
-    "author": "BBC News",
-    "title": "Coronavirus: New rules in Netherlands to cope with virus surge",
-    "description": "'We are doing our best, but the virus is doing better,' the Dutch health minister admits.",
-    "url": "http://www.bbc.co.uk/news/world-europe-54331925",
-    "urlToImage": "https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1",
-    "publishedAt": "2020-09-28T20:52:27.3228791Z",
+    "title": "Helen Reddy: Australian singer of feminist anthem I Am Woman dies",
+    "description": "The Australian singer had a string of hits in the 1970s, but is best known for her feminist pop anthem.",
+    "url": "http://www.bbc.co.uk/news/world-australia-54350248",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16A25/production/_114690729_gettyimages-160127628.jpg",
+    "publishedAt": "2020-09-30T02:52:19.6244048Z",
     "content": null
   },
   {
@@ -605,12 +566,12 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "Trump taxes are 'national security issue' - Pelosi",
-    "description": "The top Democrat in Washington asks whether President Trump owes money to foreign interests.",
-    "url": "http://www.bbc.co.uk/news/business-54332956",
-    "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p08srccv.jpg",
-    "publishedAt": "2020-09-28T18:35:44Z",
-    "content": "Media playback is unsupported on your device\r\nMedia captionTrump describes allegations he avoided taxes as \"fake news\"\r\nThe top-ranked Democrat in Washington has called President Donald Trump's alleg… [+6545 chars]"
+    "title": "Disney to cut 28,000 jobs at US theme parks",
+    "description": "Prolonged closures and limited capacity at the parks has forced the company to cut its workforce.",
+    "url": "http://www.bbc.co.uk/news/business-54350423",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/142B1/production/_114690628_gettyimages-1220560681.jpg",
+    "publishedAt": "2020-09-30T02:36:46Z",
+    "content": "Image copyrightGetty Images\r\nWalt Disney has announced it will lay off 28,000 employees, mostly at its US theme parks. \r\nDisney cited the parks' limited visitor capacity and uncertainty about how lon… [+1386 chars]"
   },
   {
     "source": {
@@ -618,11 +579,50 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "Nagorno-Karabakh: Armenia-Azerbaijan fighting rages in disputed region",
-    "description": "Casualties mount as both Armenia and Azerbaijan claim an upper hand in fighting over disputed region.",
-    "url": "http://www.bbc.co.uk/news/world-europe-54323553",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10596/production/_114666966_mediaitem114666965.jpg",
-    "publishedAt": "2020-09-28T10:52:20.4265752Z",
+    "title": "Canada outcry over 'abuse' of dying indigenous woman",
+    "description": "A nurse is sacked after Joyce Echaquan filmed herself in hospital apparently being insulted by staff.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-54350027",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/821D/production/_114690333_gettyimages-129375860.jpg",
+    "publishedAt": "2020-09-30T00:28:57Z",
+    "content": "Image copyrightGetty Images\r\nA nurse has been fired from a Canadian hospital after a video emerged showing a dying indigenous woman screaming in distress and being insulted by staff.\r\nQuebec Premier … [+3351 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "UK considered asylum centre on Ascension Island",
+    "description": "The British territory in the southern Atlantic Ocean was suggested as an outpost for processing asylum claims.",
+    "url": "http://www.bbc.co.uk/news/uk-politics-54349796",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3262/production/_114689821_ascension.jpg",
+    "publishedAt": "2020-09-30T00:23:41Z",
+    "content": "Image copyrightGetty Images\r\nThe government considered building an asylum processing centre on Ascension Island, a UK territory in the Atlantic.\r\nHome Secretary Priti Patel asked officials to look at… [+2168 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Two-fifths of plants at risk of extinction, says report",
+    "description": "We are failing to harness the many benefits plants can provide, say scientists.",
+    "url": "http://www.bbc.co.uk/news/science-environment-54344309",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13DC4/production/_114684318_gettyimages-462437536_rainforest_flames_2017.jpg",
+    "publishedAt": "2020-09-29T23:12:22Z",
+    "content": "Image copyrightGetty ImagesImage caption\r\n One of the main drivers of plant extinction is clearance of natural habitats\r\nTwo-fifths of the world's plants are at risk of extinction, scientists have wa… [+3232 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "WHO to probe 'sexual exploitation' by aid workers in DR Congo",
+    "description": "The health body's says a \"robust\" investigation will cover claims against aid workers tackling Ebola.",
+    "url": "http://www.bbc.co.uk/news/world-africa-54342356",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17CD0/production/_114688479_mediaitem114688478.jpg",
+    "publishedAt": "2020-09-29T22:22:19.8967127Z",
     "content": null
   },
   {
@@ -631,24 +631,11 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "Covid updates: Death toll from global pandemic crosses one million",
-    "description": "As infections keep rising, the UN boss calls it a \"mind-numbing\" figure and \"an agonising milestone\".",
-    "url": "http://www.bbc.co.uk/news/live/world-54336494",
-    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.3/bbc_news_logo.png",
-    "publishedAt": "2020-09-29T06:07:29.4187504Z",
-    "content": "Many countries are seeing a surge in cases right now.\r\nFor some this is a second surge, after an initial peak in spring. For others, cases have been rising steadily through the year.\r\nIn Europe, incl… [+486 chars]"
-  },
-  {
-    "source": {
-      "id": "bbc-news",
-      "name": "BBC News"
-    },
-    "author": "BBC News",
-    "title": "Amnesty International to halt India operations",
-    "description": "The human rights watchdog tells the BBC that the move comes due to reprisal from the government.",
-    "url": "http://www.bbc.co.uk/news/world-asia-india-54277329",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13BAA/production/_114601808_gettyimages-1147660221.jpg",
-    "publishedAt": "2020-09-29T05:22:20.0051429Z",
+    "title": "Brazil judge stymies plan to revoke mangrove protection",
+    "description": "Environmentalists feared fragile coastal ecosystems would be destroyed by redevelopment.",
+    "url": "http://www.bbc.co.uk/news/world-latin-america-54350180",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15765/production/_114690978_gettyimages-1179393738.jpg",
+    "publishedAt": "2020-09-30T07:22:40.0443153Z",
     "content": null
   },
   {
@@ -657,24 +644,11 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "Teacher gets death penalty for poisoning students",
-    "description": "A Chinese court said she put poison into the porridge of her colleague's students in an act of revenge.",
-    "url": "http://www.bbc.co.uk/news/world-asia-china-54335841",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/66F4/production/_106265362_chinajiaozuo976.png",
-    "publishedAt": "2020-09-29T03:58:54Z",
-    "content": "A Chinese nursery teacher has been sentenced to death for poisoning 25 children and killing one, state media reported.\r\nWang Yun was arrested last year after children at a kindergarten in Jiaozuo cit… [+1490 chars]"
-  },
-  {
-    "source": {
-      "id": "bbc-news",
-      "name": "BBC News"
-    },
-    "author": "BBC News",
-    "title": "George Pell: Cardinal to return to Rome for first time since acquittal",
-    "description": "The ex-Vatican treasurer is to return to Rome for the first time since being acquitted of sexual abuse.",
-    "url": "http://www.bbc.co.uk/news/world-australia-54334897",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7127/production/_114676982_gettyimages-953254092.jpg",
-    "publishedAt": "2020-09-29T02:37:19.1405745Z",
+    "title": "Babri mosque: India court delivers key verdict on mosque demolition",
+    "description": "Former deputy PM LK Advani, 92, was among those charged over the 1992 destruction of the Babri mosque.",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-54318515",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12D85/production/_95698177_gettyimages-93316687.jpg",
+    "publishedAt": "2020-09-30T07:22:23.860842Z",
     "content": null
   },
   {
@@ -683,12 +657,12 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "Do voters care about Trump taxes?",
-    "description": "'I'm not surprised,\" says one Trump critic. But a supporter says he used to do the same thing as the president.",
-    "url": "http://www.bbc.co.uk/news/election-us-2020-54330439",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0A61/production/_114675620_tyrone.mansfield.jpg",
-    "publishedAt": "2020-09-29T01:20:50Z",
-    "content": "The revelations about President Donald Trump's taxes have been described as a jolt to the US election campaign that could reshape the race. \r\nBut what do voters think?\r\nWe asked members of our voters… [+5883 chars]"
+    "title": "China clamps down on climbing 'wild Great Wall'",
+    "description": "Tens of thousands of people are expected to visit the Great Wall as Golden Week approaches.",
+    "url": "http://www.bbc.co.uk/news/world-asia-china-54350842",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/117C3/production/_114691617_img-0956.jpg",
+    "publishedAt": "2020-09-30T06:06:27Z",
+    "content": "Image caption\r\n The Great Wall stretches for thousands of kilometres, and many parts are restored\r\nAs China's busiest holiday season approaches, Beijing has warned that it will punish those who climb… [+2050 chars]"
   },
   {
     "source": {
@@ -696,12 +670,12 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "As death toll passes 1m, where has been hit hardest?",
-    "description": "The grim milestone is reached with the virus spreading fast in India and picking up again in Europe.",
-    "url": "http://www.bbc.co.uk/news/world-51235105",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F5C5/production/_114671926_063468104epasm.jpg",
-    "publishedAt": "2020-09-29T01:07:34Z",
-    "content": "Image copyrightEPA\r\nCoronavirus has now contributed to the deaths of one million people worldwide.\r\nThe report of the millionth death arrived just short of ten months after the first confirmed death,… [+6168 chars]"
+    "title": "Pandemic fills up Australian airline storage",
+    "description": "Analysts say it's an indication of more trouble ahead for the struggling airline industry",
+    "url": "http://www.bbc.co.uk/news/business-54335931",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13FD5/production/_114677818_gettyimages-1226321220.jpg",
+    "publishedAt": "2020-09-30T03:27:00Z",
+    "content": "Image copyrightGetty Images\r\nAn aircraft storage facility in Central Australia is now so full that its owners have had to seek out more space.\r\nMany carriers haven't had enough passengers to justify … [+3430 chars]"
   },
   {
     "source": {
@@ -709,24 +683,11 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "BTS members to become multi-millionaires",
-    "description": "The South Korean K-pop group will become multi-millionaires after their label Big Hit goes public.",
-    "url": "http://www.bbc.co.uk/news/business-54334876",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10FBF/production/_114676596_bts2.jpg",
-    "publishedAt": "2020-09-28T23:48:35Z",
-    "content": "Image copyrightReutersImage caption\r\n BTS perform at the MTV Video Music Awards on 31 August in New York\r\nAll seven members of South Korean K-pop group BTS are set to become multi-millionaires, when … [+2545 chars]"
-  },
-  {
-    "source": {
-      "id": "bbc-news",
-      "name": "BBC News"
-    },
-    "author": "BBC News",
-    "title": "Coronavirus: New rules in Netherlands to cope with virus surge",
-    "description": "'We are doing our best, but the virus is doing better,' the Dutch health minister admits.",
-    "url": "http://www.bbc.co.uk/news/world-europe-54331925",
-    "urlToImage": "https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1",
-    "publishedAt": "2020-09-28T20:52:27.3228791Z",
+    "title": "Helen Reddy: Australian singer of feminist anthem I Am Woman dies",
+    "description": "The Australian singer had a string of hits in the 1970s, but is best known for her feminist pop anthem.",
+    "url": "http://www.bbc.co.uk/news/world-australia-54350248",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16A25/production/_114690729_gettyimages-160127628.jpg",
+    "publishedAt": "2020-09-30T02:52:19.6244048Z",
     "content": null
   },
   {
@@ -735,12 +696,12 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "Trump taxes are 'national security issue' - Pelosi",
-    "description": "The top Democrat in Washington asks whether President Trump owes money to foreign interests.",
-    "url": "http://www.bbc.co.uk/news/business-54332956",
-    "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p08srccv.jpg",
-    "publishedAt": "2020-09-28T18:35:44Z",
-    "content": "Media playback is unsupported on your device\r\nMedia captionTrump describes allegations he avoided taxes as \"fake news\"\r\nThe top-ranked Democrat in Washington has called President Donald Trump's alleg… [+6545 chars]"
+    "title": "Disney to cut 28,000 jobs at US theme parks",
+    "description": "Prolonged closures and limited capacity at the parks has forced the company to cut its workforce.",
+    "url": "http://www.bbc.co.uk/news/business-54350423",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/142B1/production/_114690628_gettyimages-1220560681.jpg",
+    "publishedAt": "2020-09-30T02:36:46Z",
+    "content": "Image copyrightGetty Images\r\nWalt Disney has announced it will lay off 28,000 employees, mostly at its US theme parks. \r\nDisney cited the parks' limited visitor capacity and uncertainty about how lon… [+1386 chars]"
   },
   {
     "source": {
@@ -748,11 +709,50 @@ export const mockResponse = [
       "name": "BBC News"
     },
     "author": "BBC News",
-    "title": "Nagorno-Karabakh: Armenia-Azerbaijan fighting rages in disputed region",
-    "description": "Casualties mount as both Armenia and Azerbaijan claim an upper hand in fighting over disputed region.",
-    "url": "http://www.bbc.co.uk/news/world-europe-54323553",
-    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10596/production/_114666966_mediaitem114666965.jpg",
-    "publishedAt": "2020-09-28T10:52:20.4265752Z",
+    "title": "Canada outcry over 'abuse' of dying indigenous woman",
+    "description": "A nurse is sacked after Joyce Echaquan filmed herself in hospital apparently being insulted by staff.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-54350027",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/821D/production/_114690333_gettyimages-129375860.jpg",
+    "publishedAt": "2020-09-30T00:28:57Z",
+    "content": "Image copyrightGetty Images\r\nA nurse has been fired from a Canadian hospital after a video emerged showing a dying indigenous woman screaming in distress and being insulted by staff.\r\nQuebec Premier … [+3351 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "UK considered asylum centre on Ascension Island",
+    "description": "The British territory in the southern Atlantic Ocean was suggested as an outpost for processing asylum claims.",
+    "url": "http://www.bbc.co.uk/news/uk-politics-54349796",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3262/production/_114689821_ascension.jpg",
+    "publishedAt": "2020-09-30T00:23:41Z",
+    "content": "Image copyrightGetty Images\r\nThe government considered building an asylum processing centre on Ascension Island, a UK territory in the Atlantic.\r\nHome Secretary Priti Patel asked officials to look at… [+2168 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Two-fifths of plants at risk of extinction, says report",
+    "description": "We are failing to harness the many benefits plants can provide, say scientists.",
+    "url": "http://www.bbc.co.uk/news/science-environment-54344309",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13DC4/production/_114684318_gettyimages-462437536_rainforest_flames_2017.jpg",
+    "publishedAt": "2020-09-29T23:12:22Z",
+    "content": "Image copyrightGetty ImagesImage caption\r\n One of the main drivers of plant extinction is clearance of natural habitats\r\nTwo-fifths of the world's plants are at risk of extinction, scientists have wa… [+3232 chars]"
+  },
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "WHO to probe 'sexual exploitation' by aid workers in DR Congo",
+    "description": "The health body's says a \"robust\" investigation will cover claims against aid workers tackling Ebola.",
+    "url": "http://www.bbc.co.uk/news/world-africa-54342356",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17CD0/production/_114688479_mediaitem114688478.jpg",
+    "publishedAt": "2020-09-29T22:22:19.8967127Z",
     "content": null
   }
 ];
