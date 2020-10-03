@@ -19,20 +19,24 @@ const Main = () => {
     // const requestTwo = axios.get(two);
     // const requestThree = axios.get(three);
     // const requestFour = axios.get(four);
-    // axios.all([requestOne, requestTwo, requestThree, requestFour]).then(axios.spread((...responses) => {
-    //     const responseOne = responses[0];
-    //     const responseTwo = responses[1];
-    //     const responesThree = responses[2];
-    //     const responesFour = responses[2];
-    //     const combinedResult = [
+    // axios
+    //   .all([requestOne, requestTwo, requestThree, requestFour])
+    //   .then(
+    //     axios.spread((...responses) => {
+    //       const responseOne = responses[0];
+    //       const responseTwo = responses[1];
+    //       const responesThree = responses[2];
+    //       const responesFour = responses[2];
+    //       const combinedResult = [
     //         ...responseOne.data.articles,
     //         ...responseTwo.data.articles,
     //         ...responesThree.data.articles,
-    //         ...responesFour.data.articles,
-    //     ];
-    //     console.log(JSON.stringify(combinedResult));
-    // })).catch(errors => {
-    // })
+    //         ...responesFour.data.articles
+    //       ];
+    //       console.log(JSON.stringify(combinedResult));
+    //     })
+    //   )
+    //   .catch(errors => {});
 
     filterNews(mockResponse, true);
   }, []);
