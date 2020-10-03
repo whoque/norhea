@@ -1,7 +1,7 @@
 .filter {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;;
+  justify-content: space-around;
   align-items: center;
   height: 100%;
   width: 100vw;
@@ -142,28 +142,34 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 5px;
+  padding: 5px 0;
+  box-shadow: 0 -1px 1px #d5d5d5;
 }
 
 .block__add > input {
-  background: white;
+  background: #5a5a5a;
   border: 0;
   outline: 0;
   height: 30px;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
   padding-left: 5px;
+  padding-right: 5px;
+  color: white;
+  font-weight: 600;
 }
 
 .block__add > button {
-  background: #5a5a5a;
+  background: #1874cd;
   height: 36px;
   border-radius: 5px;
   width: 50px;
   color: white;
   outline: 0;
-  border: 2px solid white;
+  border: 2px solid #5a5a5a;
   position: relative;
-  left: -1px;
+  left: -2px;
   cursor: pointer;
 }
 

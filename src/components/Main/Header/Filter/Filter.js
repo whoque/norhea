@@ -71,7 +71,6 @@ const Filter = () => {
                     <div className={styles.noBlockedMsg}>Add keywords to block</div>
                 </div>
             )}
-            </div>
             <div className={styles.block__add}>
                 <input
                     type="text"
@@ -79,6 +78,7 @@ const Filter = () => {
                     onChange={blockerChangeHandler}
                     placeholder="Enter a term to block" />
                 <button onClick={blockerSubmitHandler}>Block</button>
+            </div>
             </div>
         </div>
     )
