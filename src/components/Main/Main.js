@@ -60,11 +60,13 @@ const Main = () => {
       }
       return isGood;
     });
+    const blockedArticle = news.length - result.length;
+    const articleTerm = blockedArticle > 1 ? "articles" : "article";
     firstTimeLoad
       ? setTimeout(() => {
-          alert.show(`Blocking ${news.length - result.length} aticles..`);
+          alert.show(`Blocking ${blockedArticle} ${articleTerm}`);
         }, 5000)
-      : alert.show(`Blocking ${news.length - result.length} aticles..`);
+      : alert.show(`Blocking ${blockedArticle} ${articleTerm}`);
     setNews(result);
   };
   const filterNewsWithChanges = () => {
