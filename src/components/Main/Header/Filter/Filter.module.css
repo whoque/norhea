@@ -1,7 +1,7 @@
 .filter {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-around;;
   align-items: center;
   height: 100%;
   width: 100vw;
@@ -13,7 +13,6 @@
   padding: 0px 0px 2px 0px;
   box-shadow: 0 0 1px black inset;
   border-radius: 5px;
-  margin: 20vh 0;
 }
 
 .blocker__display_item {
